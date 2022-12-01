@@ -1019,7 +1019,7 @@
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Hiệu ứng công trình</LangValue>
+    <LangValue>Tăng xây dựng</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -1869,7 +1869,7 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>La capacité de ce pâturage n'étant pas suffisante pour accepter l'animal, il a fallu le mettre en cage.</LangValue>
+    <LangValue>Không đủ sức chứa trên đồng cỏ này để chăn thả vật nuôi.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -1877,7 +1877,7 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Patients</LangValue>
+    <LangValue>Người bệnh</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -1885,7 +1885,7 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Arbres plantés</LangValue>
+    <LangValue>Trồng cây</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -1893,7 +1893,7 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Produire</LangValue>
+    <LangValue>Sản xuất</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -1901,7 +1901,7 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Choisir Produits</LangValue>
+    <LangValue>Chọn sản phẩm</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -1909,7 +1909,7 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Sélectionner</LangValue>
+    <LangValue>Chọn</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -1917,7 +1917,7 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Produit</LangValue>
+    <LangValue>Sản phẩms</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -1925,7 +1925,7 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Limite Production</LangValue>
+    <LangValue>Giới hạn sản xuất</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -1933,7 +1933,7 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Production</LangValue>
+    <LangValue>Đầu ra</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -1941,7 +1941,7 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Inutilisé(e)</LangValue>
+    <LangValue>Không được sử dụng</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -1949,7 +1949,7 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Nombre d'emplois</LangValue>
+    <LangValue>Số lượng nhân viên</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -1957,7 +1957,7 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Inventaire</LangValue>
+    <LangValue>Hàng tồn kho</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -1965,7 +1965,7 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Mûr(e)</LangValue>
+    <LangValue>Chín</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -1973,7 +1973,7 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Maturation :</LangValue>
+    <LangValue>Độ chín:</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -1981,7 +1981,7 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Rechercher</LangValue>
+    <LangValue>Tìm kiếm</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -1989,7 +1989,7 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Vendre Objets</LangValue>
+    <LangValue>Bán mặt hàng</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -1997,7 +1997,7 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue></LangValue>
+    <LangValue>Giới tính</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2021,7 +2021,7 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Trier Par</LangValue>
+    <LangValue>Sắp xếp theo</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2029,7 +2029,7 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Objets stockables</LangValue>
+    <LangValue>Vật phẩm có thể cất giữ</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2037,7 +2037,7 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Séparer</LangValue>
+    <LangValue>Tách</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2045,7 +2045,7 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Fournitures</LangValue>
+    <LangValue>Vật tư</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2053,7 +2053,7 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Total de travailleurs de cette profession :</LangValue>
+    <LangValue>Tổng số nhân công:</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2061,7 +2061,7 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Année en cours</LangValue>
+    <LangValue>Năm nay</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2069,7 +2069,7 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Cette structure est maintenant non fonctionnelle</LangValue>
+    <LangValue>Công trình này hiện không hoạt động</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2077,7 +2077,7 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Cette structure est maintenant fonctionnelle</LangValue>
+    <LangValue>Công trình này hiện đang hoạt động</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2085,7 +2085,7 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Pierre Tombale</LangValue>
+    <LangValue>Bia mộ</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2093,7 +2093,7 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Interface fixe</LangValue>
+    <LangValue>Giao diện cố định</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2101,7 +2101,7 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Aperçu Structure</LangValue>
+    <LangValue>Tổng quan công trình</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2109,7 +2109,7 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Graphique Population</LangValue>
+    <LangValue>Biểu đồ dân số</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2117,7 +2117,7 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Gestion Stocks</LangValue>
+    <LangValue>Quản lý chứng khoánss</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2125,7 +2125,7 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Collection</LangValue>
+    <LangValue>Bộ sưu tập</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2133,7 +2133,7 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Graphique Production</LangValue>
+    <LangValue>Biểu đồ sản xuất</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2141,7 +2141,7 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Aperçu Ville</LangValue>
+    <LangValue>Tổng quan thị trấn</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2149,7 +2149,7 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Position Ecran</LangValue>
+    <LangValue>Vị trí màn hình</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2157,7 +2157,7 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Année Dernière</LangValue>
+    <LangValue>Năm trước</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2165,7 +2165,7 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Lieu de travail</LangValue>
+    <LangValue>Nơi làm việc</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2173,7 +2173,7 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Ouvrier</LangValue>
+    <LangValue>Công nhân</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2181,7 +2181,7 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Poste fermé</LangValue>
+    <LangValue>Vị trí công việc đã đóng</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2189,7 +2189,7 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Nombre de travailleurs</LangValue>
+    <LangValue>Số lượng công nhân</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2197,7 +2197,7 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Rendement</LangValue>
+    <LangValue>Năng suất</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2205,7 +2205,7 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Effet Structure</LangValue>
+    <LangValue>Hiệu ứng công trình</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2213,7 +2213,7 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Rénovation Structure</LangValue>
+    <LangValue>Tu sửa công trình</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2221,7 +2221,7 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Améliorer</LangValue>
+    <LangValue>Nâng cấp</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2229,7 +2229,7 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Liste Evénements Aléatoires</LangValue>
+    <LangValue>Danh sách sự kiện ngẫu nhiên</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2237,7 +2237,7 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Liste des héros</LangValue>
+    <LangValue>Danh sách anh hùng</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2245,7 +2245,7 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Aimer</LangValue>
+    <LangValue>Thích</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2253,7 +2253,7 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Crédits</LangValue>
+    <LangValue>Credits</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2261,7 +2261,7 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Faire un vœu</LangValue>
+    <LangValue>Thực hiện một điều ước</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2269,9 +2269,9 @@ Và số lượng phải bé hơn không gian còn lại của đồng cỏ đư
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Lieu de résidence pour les Cư dân.
-Les occupants peuvent avoir des enfants.
-Peut accueillir jusqu'à 4 personnes.</LangValue>
+    <LangValue>·Nơi ở cho cư dân.
+·Cư dân có thể sinh con.
+·Có thể ở tối đa 4 người.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2279,13 +2279,13 @@ Peut accueillir jusqu'à 4 personnes.</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Lieu de résidence pour les Cư dân.
-Les occupants peuvent avoir des enfants.
-Peut accueillir jusqu’à 8 personnes.
-Les combustibles durent plus longtemps.
-Énorme capacité d’inventaire.
-Construit à côté de la place du marché.
-Débloqué dans « Công nghệ - Qualité de vie - Villa ».</LangValue>
+    <LangValue>·Nơi ở cho cư dân.
+·Cư dân có thể sinh con.
+·Có thể ở tối đa 8 người.
+·Nhiên liệu tồn tại lâu hơn.
+·Khả năng lưu trữ lớn.
+·Xây dựng gần chợ.
+·Mở khóa trong 'Công nghệ - Chất lượng cuộc sống - Biệt thự'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2301,8 +2301,8 @@ Débloqué dans « Công nghệ - Qualité de vie - Villa ».</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Sert à stocker des objets
-Se débloque dans 'Công nghệ - Logistique - Entrepôt'.</LangValue>
+    <LangValue>·Có thể lưu trữ vật phẩm.
+·Mở khóa trong 'Công nghệ - Hậu cần - Nhà kho'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2310,11 +2310,10 @@ Se débloque dans 'Công nghệ - Logistique - Entrepôt'.</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Rassemble les matériaux des entrepôts et des parcs de stockage vers les maisons des Cư dân à proximité.
-Structure avec zone d'effet.
-Peut accueillir plus de travailleurs et stocker plus de matériaux.
-Stockage plus important
-À débloquer dans 'Công nghệ - Logistique - Marché'.</LangValue>
+    <LangValue>·Thu thập vật liệu từ Nhà kho và Bãi chứa đến nhà của cư dân gần đó trong khu vực được đánh dấu.
+·Có thể chứa nhiều công nhân hơn và lưu trữ nhiều vật liệu hơn.
+·Không gian lưu trữ lớn hơn
+·Mở khóa trong 'Công nghệ - Hậu cần - Chợ'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2322,8 +2321,8 @@ Stockage plus important
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Peut stocker des objets.
-Aucun matériau n’est consommé lors de la construction.</LangValue>
+    <LangValue>·Có thể lưu trữ vật phẩm.
+·Không tiêu hao vật liệu khi thi công.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2331,9 +2330,9 @@ Aucun matériau n’est consommé lors de la construction.</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Peut stocker des objets.
-Surface au sol plus petite.
-Débloqué dans « Công nghệ - Logistique - Entrepôt ».</LangValue>
+    <LangValue>·Có thể lưu trữ vật phẩm.
+·Diện tích sàn nhỏ hơn.
+·Mở khóa trong 'Công nghệ - Hậu cần - Nhà kho'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2341,7 +2340,7 @@ Débloqué dans « Công nghệ - Logistique - Entrepôt ».</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Rassemble les matériaux des entrepôts et des aires de stockage vers les maisons des Cư dân à proximité dans la zone mise en évidence.</LangValue>
+    <LangValue>Thu thập vật liệu từ Nhà kho và Bãi chứa đến nhà của cư dân gần đó trong khu vực được đánh dấu.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2349,9 +2348,9 @@ Débloqué dans « Công nghệ - Logistique - Entrepôt ».</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Peut stocker des objets.
-Transporte automatiquement les ressources vers les structures situées en dehors de la zone mise en évidence.
-Débloqué dans « Công nghệ - Logistique - Station de transfert ».</LangValue>
+    <LangValue>·Có thể lưu trữ vật phẩm.
+·Tự động vận chuyển tài nguyên đến các công trình bên ngoài khu vực được đánh dấu.
+·Mở khóa trong 'Công nghệ - Hậu cần - Trạm trung chuyển'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2359,9 +2358,9 @@ Débloqué dans « Công nghệ - Logistique - Station de transfert ».</LangVal
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Peut stocker des objets.
-Un plus grand inventaire pour stocker.
-Débloqué dans « Công nghệ - Logistique - Entrepôt ».</LangValue>
+    <LangValue>·Có thể lưu trữ vật phẩm.
+·Không gian lưu trữ lớn hơn.
+·Mở khóa trong 'Công nghệ - Hậu cần - Nhà kho'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2369,10 +2368,10 @@ Débloqué dans « Công nghệ - Logistique - Entrepôt ».</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Peut stocker des objets.
-Les Cư dân peuvent traverser la structure.
-Les objets en stock ne seront pas détruits par les catastrophes.
-Débloqué dans « Công nghệ - Logistique - Cave ».</LangValue>
+    <LangValue>·Có thể lưu trữ vật phẩm.
+·Cư dân có thể đi ngang qua công trình.
+·Các vật phẩm đang lưu trữ sẽ không bị phá hủy bởi thảm họa.
+·Mở khóa trong 'Công nghệ - Hậu cần - Hầm'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2380,8 +2379,8 @@ Débloqué dans « Công nghệ - Logistique - Cave ».</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Peut stocker plus d’objets.
-Débloqué dans « Công nghệ - Logistique - Aire de stockage durable ».</LangValue>
+    <LangValue>·Có thể lưu trữ nhiều vật phẩm hơn.
+·Mở khóa trong 'Công nghệ - Hậu cần - Kho lưu trữ bền vững'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2389,9 +2388,9 @@ Débloqué dans « Công nghệ - Logistique - Aire de stockage durable ».</Lan
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Peut stocker des objets.
-Les travailleurs rassembleront les objets sélectionnés des entrepôts vers les bâtiments de production situés dans la zone en surbrillance.
-Débloqué dans « Công nghệ - Logistique - Station d’approvisionnement ».</LangValue>
+    <LangValue>·Có thể lưu trữ vật phẩm.
+·Công nhân sẽ vận chuyển các mặt hàng đã chọn từ Kho đến các tòa nhà sản xuất nằm trong khu vực được đánh dấu.
+·Mở khóa trong 'Công nghệ - Hậu cần - Trạm cung cấp'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2399,8 +2398,8 @@ Débloqué dans « Công nghệ - Logistique - Station d’approvisionnement ».
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>A un énorme espace de stockage.
-Débloqué dans « Công nghệ - Logistique - Bonus de stockage ».</LangValue>
+    <LangValue>·Có thể lưu trữ vật phẩm với không gian lưu trữ lớn.
+·Mở khóa trong 'Công nghệ - Hậu cần - Tăng cường lưu trữ'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2408,10 +2407,10 @@ Débloqué dans « Công nghệ - Logistique - Bonus de stockage ».</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>A un énorme espace de stockage.
-Doit être construit sur une colline.
-Ne peut être démoli après la construction. 
-Débloqué dans « Công nghệ - Logistique - Bonus de stockage ».</LangValue>
+    <LangValue>·Có thể lưu trữ vật phẩm với không gian lưu trữ lớn.
+·Phải được xây dựng trên sườn đồi.
+·Không thể phá dỡ sau khi xây dựng.
+·Mở khóa trong 'Công nghệ - Hậu cần - Tăng cường lưu trữ'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2419,9 +2418,9 @@ Débloqué dans « Công nghệ - Logistique - Bonus de stockage ».</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Les ouvriers rassemblent les matériaux des entrepôts et des aires de stockage vers les maisons des Cư dân à proximité dans la zone mise en évidence.
-Surface au sol plus petite.
-Débloqué dans « Công nghệ - Logistique - Petite place du marché ».</LangValue>
+    <LangValue>·Công nhân sẽ thu thập vật liệu từ Nhà kho và Bãi chứa đến nhà của Cư dân lân cận trong khu vực được đánh dấu.
+·Diện tích sàn nhỏ hơn.
+·Mở khóa trong 'Công nghệ - Hậu cần - Chợ nhỏ'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2429,11 +2428,11 @@ Débloqué dans « Công nghệ - Logistique - Petite place du marché ».</Lang
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Lieu de résidence pour les Cư dân.
-Les occupants peuvent avoir des enfants.
-Peut accueillir jusqu’à 4 personnes.
-Construit à côté de la place du marché.
-Diminue légèrement le stress des occupants.</LangValue>
+    <LangValue>·Nơi ở cho cư dân.
+·Cư dân có thể sinh con.
+·Có thể chứa đến 4 người.
+·Xây dựng gần chợ.
+·Giảm nhẹ căng thẳng cho người cư trú.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2441,8 +2440,8 @@ Diminue légèrement le stress des occupants.</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Peut produire de l’eau.
-L’eau des puits peut être utilisée pour éteindre les incendies.</LangValue>
+    <LangValue>·Nguồn nước.
+·Nước từ giếng có thể được sử dụng để dập lửa.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2450,7 +2449,7 @@ L’eau des puits peut être utilisée pour éteindre les incendies.</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Peut faire pousser des cultures alimentaires et les matières premières pour la production.</LangValue>
+    <LangValue>·Có thể trồng các loại cây lương thực và cây nguyên liệu phục vụ cho hoạt động sản xuất.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2458,9 +2457,9 @@ L’eau des puits peut être utilisée pour éteindre les incendies.</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Peut donner des fruits.
-Peut abattre des arbres pour le bois.
-Ne peut produire des fruits qu’une fois arrivé à maturité.</LangValue>
+    <LangValue>·Có thể kết trái.
+·Có thể chặt cây lấy Gỗ.
+·Chỉ có thể kết trái sau khi cây đã trưởng thành.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2468,8 +2467,8 @@ Ne peut produire des fruits qu’une fois arrivé à maturité.</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>On peut y élever du bétail qui peut être abattu pour la viande.
-Peut obtenir une production supplémentaire en fonction des différents types de bétail.</LangValue>
+    <LangValue>·Gia súc có thể được nuôi ở đây và có thể giết mổ để lấy thịt.
+·Có thể nhận thêm phụ phẩm dựa trên các loại vật nuôi khác nhau.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2477,9 +2476,8 @@ Peut obtenir une production supplémentaire en fonction des différents types de
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Peut produire du poisson.
-Structure de zone.
-Requiert une zone comprenant à la fois de la terre et de l'eau.</LangValue>
+    <LangValue>·Có thể bắt cá trong khu vực được đánh dấu.
+·Yêu cầu một khu vực bao gồm cả đất và nước.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2487,8 +2485,8 @@ Requiert une zone comprenant à la fois de la terre et de l'eau.</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Les săn bắnurs peuvent săn bắnr des animaux sauvages et ont une chance de trouver leurs petits pour les élever dans les pâturages.
-La zone de săn bắn couvre la totalité de la carte.</LangValue>
+    <LangValue>·Thợ săn có thể săn bắt những động vật hoang dã và có cơ hội tìm thấy đàn con của chúng để tiến hành thuần hóa.
+·Khu vực săn bắn bao phủ toàn bộ bản đồ.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2496,8 +2494,8 @@ La zone de săn bắn couvre la totalité de la carte.</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Les collecteurs peuvent cueillir des plantes sauvages à des fins alimentaires et des matières premières pour la brasserie dans la zone mise en évidence.
-Ils peuvent aussi éventuellement obtenir des graines de plantes.</LangValue>
+    <LangValue>·Những người hái lượm có thể thu thập các loại thực vật hoang dã để làm thức ăn hoặc làm nguyên liệu thô cho nhà máy bia trong khu vực được đánh dấu.
+·Cũng có thể có tìm thấy một số loại hạt giống cây trồng.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2505,8 +2503,8 @@ Ils peuvent aussi éventuellement obtenir des graines de plantes.</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Les ouvriers peuvent collecter du miel và cire d'abeille dans un périmètre.
-Débloqué dans 'Công nghệ - Agriculture - Rucher'.</LangValue>
+    <LangValue>·Công nhân có thể thu thập Mật ong và Sáp ong trong khu vực nhất định.
+·Mở khóa trong 'Công nghệ - Nông nghiệp - Nhà nuôi ong'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2514,8 +2512,8 @@ Débloqué dans 'Công nghệ - Agriculture - Rucher'.</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Peut faire pousser des cultures spéciales et utiliser des engrais pour augmenter le rendement.
-Débloqué dans « Công nghệ - Agriculture - Pépinière ».</LangValue>
+    <LangValue>·Có thể trồng các loại cây trồng đặc biệt và sử dụng Phân bón để tăng năng suất.
+·Mở khóa trong 'Công nghệ - Nông nghiệp - Vườn ươm'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2523,10 +2521,10 @@ Débloqué dans « Công nghệ - Agriculture - Pépinière ».</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Peut produire de la pierre.
-Peut être construit sur une surface plane.
-Ne peut être démoli après la construction.
-Débloqué dans « Công nghệ - Extraction - Carrière ».</LangValue>
+    <LangValue>·Sản xuất Đá.
+·Có thể xây dựng trên một khu vực bằng phẳng.
+·Không thể phá dỡ sau khi xây dựng.
+·Mở khóa trong 'Công nghệ - Khai thác - Mỏ đá'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2534,9 +2532,9 @@ Débloqué dans « Công nghệ - Extraction - Carrière ».</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Peut produire du sel.
-Doit être construit dans une zone contenant à la fois de la terre et de l’eau.
-Débloqué dans « Công nghệ - Traitement - Production de sel ».</LangValue>
+    <LangValue>·Sản xuất muối.
+·Cần được xây dựng trong khu vực bao gồm đất và nước.
+·Mở khóa trong 'Công nghệ - Chế biến - Làm muối'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2544,9 +2542,9 @@ Débloqué dans « Công nghệ - Traitement - Production de sel ».</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Peut faire pousser des roseaux près de l’eau.
-Doit être construit dans une zone contenant à la fois de la terre et de l’eau.
-Débloqué dans « Công nghệ - Agriculture - Roseaux ».</LangValue>
+    <LangValue>·Khai thác lau sậy.
+·Cần được xây dựng trong khu vực bao gồm đất và nước.
+·Mở khóa trong 'Công nghệ - Nông nghiệp - Trồng lau sậy'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2554,10 +2552,10 @@ Débloqué dans « Công nghệ - Agriculture - Roseaux ».</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Peut produire du sable.
-Peut produire de l’argile.
-Doit être construit dans une zone contenant à la fois de la terre et de l’eau.
-Débloqué dans « Công nghệ - Extraction - Extraction de sable ».</LangValue>
+    <LangValue>·Sản xuất Cát.
+·Sản xuất Đất sét
+·Cần được xây dựng trong khu vực bao gồm đất và nước.
+·Mở khóa trong 'Công nghệ - Khai thác - Khai thác cát'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2565,10 +2563,10 @@ Débloqué dans « Công nghệ - Extraction - Extraction de sable ».</LangValu
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Peut faire pousser des cultures alimentaires et les matières premières pour la production.
-Rendement supérieur à celui des champs.
-Peut être fertilisé pour augmenter le rendement.
-Débloqué dans « Công nghệ - Agriculture - Ferme ».</LangValue>
+    <LangValue>·Có thể trồng các loại cây lương thực và cây nguyên liệu phục vụ cho hoạt động sản xuất.
+·Năng suất cao hơn ruộng.
+·Có thể tiến hành bón lót để tăng năng suất.
+·Mở khóa trong 'Công nghệ - Nông nghiệp - Nông trại'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2576,12 +2574,12 @@ Débloqué dans « Công nghệ - Agriculture - Ferme ».</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Peut faire pousser des arbres fruitiers.
-Peut abattre des arbres pour le bois.
-cung cấp fruits après la maturité.
-Un rendement plus élevé.
-Peut être fertilisé pour augmenter le rendement.
-Débloqué dans « Công nghệ - Agriculture - Bosquet ».</LangValue>
+    <LangValue>·Có thể trồng cây ăn quả.
+·Có thể chặt cây lấy Gỗ.
+·Sẽ kết trái khi cây trưởng thành.
+·Sản lượng cao hơn.
+·Có thể tiến hành bón lót để tăng năng suất.
+·Mở khóa trong 'Công nghệ - Nông nghiệp - Rừng cây'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2589,9 +2587,9 @@ Débloqué dans « Công nghệ - Agriculture - Bosquet ».</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Peut produire du poisson.
-La production de poisson est affectée par la zone d'eau.
-Doit être construit dans une zone contenant à la fois de la terre et de l'eau.</LangValue>
+    <LangValue>·Có thể tiến hành câu cá.
+·Sản lượng cá bị ảnh hưởng bởi diện tích mặt nước.
+·Phải được xây dựng trong khu vực bao gồm đất và nước.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2599,8 +2597,8 @@ Doit être construit dans une zone contenant à la fois de la terre et de l'eau.
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Peut planter des arbres
-Coupe et récolte régulières</LangValue>
+    <LangValue>·Có thể trồng và chặt cây theo định kỳ.
+·Mở khóa trong 'Công nghệ - Nông nghiệp - Lâm trang'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2608,10 +2606,10 @@ Coupe et récolte régulières</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Peut planter des arbres.
-Peut abattre des arbres pour le bois.
-Peut être fertilisé pour augmenter le rendement.
-Débloqué dans « Công nghệ - Agriculture - Ferme forestière ».</LangValue>
+    <LangValue>·Có thể trồng và chặt cây theo định kỳ..
+·Có thể chặt cây lấy Gỗ.
+·Có thể tiến hành bón lót để tăng năng suất.
+·Mở khóa trong 'Công nghệ - Nông nghiệp - Lâm trang'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2619,10 +2617,10 @@ Débloqué dans « Công nghệ - Agriculture - Ferme forestière ».</LangValue
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Peut produire du poisson.
-Production stable.
-Doit être construit au sol.
-Débloqué dans « Công nghệ - Agriculture - Étang à poisson ».</LangValue>
+    <LangValue>·Có thể tiến hành câu cá.
+·Sản lượng ổn định.
+·Phải được xây dựng trên đất liền.
+·Mở khóa trong 'Công nghệ - Nông nghiệp - Ao cá'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2634,7 +2632,7 @@ Débloqué dans « Công nghệ - Agriculture - Étang à poisson ».</LangValue
 Les travailleurs abattent les animaux adultes pour leur viande.
 Production supplémentaire en fonction du type d’animaux.
 Le fourrage peut être utilisé pour augmenter la production.
-Débloqué dans « Công nghệ - Agriculture - Écopâturage ».</LangValue>
+·Mở khóa trong 'Công nghệ - Nông nghiệp - Écopâturage'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2656,8 +2654,8 @@ Peut faire pousser des matériaux pour la production.
 Peut faire pousser des matériaux pour la production.
 2 fermiers peuvent couvrir le travail de base d'un champ standard.
 Rendement supérieur à celui d'un champ.
-Peut être fertilisé pour augmenter le rendement.
-Débloqué dans 'Công nghệ - Agriculture - Ferme'.</LangValue>
+·Có thể tiến hành bón lót để tăng năng suất.
+·Mở khóa trong 'Công nghệ - Nông nghiệp - Nông trại'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2668,7 +2666,7 @@ Débloqué dans 'Công nghệ - Agriculture - Ferme'.</LangValue>
     <LangValue>Peut élever des animaux.
 La production des animaux est grandement augmentée.
 Peut élever des animaux pour le transport.
-Débloqué dans « Công nghệ - Agriculture - Corral ».</LangValue>
+·Mở khóa trong 'Công nghệ - Nông nghiệp - Corral'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2679,8 +2677,8 @@ Débloqué dans « Công nghệ - Agriculture - Corral ».</LangValue>
     <LangValue>Peut faire pousser des cultures pour se nourrir.
 Peut faire pousser des matériaux pour la production.
 Augmente le rendement de 25%.
-Peut être fertilisé pour augmenter le rendement.
-Débloqué dans 'Công nghệ - Agriculture - Plantation'.</LangValue>
+·Có thể tiến hành bón lót để tăng năng suất.
+·Mở khóa trong 'Công nghệ - Nông nghiệp - Plantation'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2690,10 +2688,10 @@ Débloqué dans 'Công nghệ - Agriculture - Plantation'.</LangValue>
     <LangType>French</LangType>
     <LangValue>Peut produire du fer.
 Peut produire du charbon.
-Doit être construit sur une colline.
+·Phải được xây dựng trên sườn đồi.
 Ne peut pas être démoli après avoir été construit.
 Rendement plus élevé.
-Débloqué dans 'Công nghệ - Mines - Công nghệ d'exploration 1'.</LangValue>
+·Mở khóa trong 'Công nghệ - Mines - Công nghệ d'exploration 1'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2703,9 +2701,9 @@ Débloqué dans 'Công nghệ - Mines - Công nghệ d'exploration 1'.</LangValu
     <LangType>French</LangType>
     <LangValue>Peut produire du fer.
 Peut produire du charbon.
-Doit être construit sur une colline.
+·Phải được xây dựng trên sườn đồi.
 Production illimitée.
-Débloqué dans « Công nghệ - Extraction - Công nghệ d’exploration 2 ».</LangValue>
+·Mở khóa trong 'Công nghệ - Khai thác - Công nghệ d’exploration 2'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2715,10 +2713,10 @@ Débloqué dans « Công nghệ - Extraction - Công nghệ d’exploration 2 »
     <LangType>French</LangType>
     <LangValue>Peut produire du fer.
 Peut produire du charbon.
-Peut être construit sur une surface plane.
-Ne peut être démoli après la construction.
+·Có thể xây dựng trên một khu vực bằng phẳng.
+·Không thể phá dỡ sau khi xây dựng.
 Production totale plus haute.
-Débloqué dans « Công nghệ - Extraction - Công nghệ d’exploration 1 ».</LangValue>
+·Mở khóa trong 'Công nghệ - Khai thác - Công nghệ d’exploration 1'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2728,8 +2726,8 @@ Débloqué dans « Công nghệ - Extraction - Công nghệ d’exploration 1 »
     <LangType>French</LangType>
     <LangValue>Peut produire des produits de la mer rares.
 Le Point de pêche n’augmentera pas sa production.
-Doit être construit dans une zone contenant à la fois de la terre et de l’eau.
-Débloqué dans « Công nghệ - Agriculture - Pêche »</LangValue>
+·Cần được xây dựng trong khu vực bao gồm đất và nước.
+·Mở khóa trong 'Công nghệ - Nông nghiệp - Pêche'</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2737,11 +2735,11 @@ Débloqué dans « Công nghệ - Agriculture - Pêche »</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Peut produire de la pierre.
-Peut être construit sur une surface plane.
+    <LangValue>·Sản xuất Đá.
+·Có thể xây dựng trên một khu vực bằng phẳng.
 Non démontable après construction.
 Production totale plus haute.
-Débloqué dans « Công nghệ - Extraction - Công nghệ d’exploitation 1 »</LangValue>
+·Mở khóa trong 'Công nghệ - Khai thác - Công nghệ d’exploitation 1'</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2749,10 +2747,10 @@ Débloqué dans « Công nghệ - Extraction - Công nghệ d’exploitation 1 �
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Peut produire de la pierre.
-Peut être construit sur une surface plane.
+    <LangValue>·Sản xuất Đá.
+·Có thể xây dựng trên một khu vực bằng phẳng.
 Production totale illimitée.
-Débloqué dans « Công nghệ - Extraction - Công nghệ d’exploitation 2 »</LangValue>
+·Mở khóa trong 'Công nghệ - Khai thác - Công nghệ d’exploitation 2'</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2760,11 +2758,11 @@ Débloqué dans « Công nghệ - Extraction - Công nghệ d’exploitation 2 �
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Peut produire de la pierre.
-Doit être construit sur une colline.
+    <LangValue>·Sản xuất Đá.
+·Phải được xây dựng trên sườn đồi.
 Non démontable après construction.
 Production totale plus haute.
-Débloqué dans « Công nghệ - Extraction - Công nghệ d’exploitation 1 ».</LangValue>
+·Mở khóa trong 'Công nghệ - Khai thác - Công nghệ d’exploitation 1'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2772,7 +2770,7 @@ Débloqué dans « Công nghệ - Extraction - Công nghệ d’exploitation 1 �
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Peut produire de l’eau.
+    <LangValue>·Nguồn nước.
 Il est possible d’utiliser l’eau ici pour éteindre les incendies.</LangValue>
    </Lang>
   </LangList>
@@ -2781,9 +2779,9 @@ Il est possible d’utiliser l’eau ici pour éteindre les incendies.</LangValu
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Peut produire de l’eau.
+    <LangValue>·Nguồn nước.
 Production plus importante.
-Débloqué dans « Công nghệ - Qualité de vie - Eau propre ».</LangValue>
+·Mở khóa trong 'Công nghệ - Qualité de vie - Eau propre'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2791,10 +2789,10 @@ Débloqué dans « Công nghệ - Qualité de vie - Eau propre ».</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Lieu de résidence pour les Cư dân.
+    <LangValue>·Nơi ở cho cư dân.
 Les occupants ne peuvent pas avoir d’enfants.
-Construit à côté de la place du marché.
-Accueille jusqu’à 24 personnes.</LangValue>
+·Xây dựng gần chợ.
+Accueille jusqu’à 24 người.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2846,9 +2844,9 @@ Les vêtements peuvent fournir de la chaleur aux Cư dân.</LangValue>
     <LangType>French</LangType>
     <LangValue>Peut produire du fer.
 Peut produire du charbon.
-Doit être construit sur une colline.
+·Phải được xây dựng trên sườn đồi.
 Non démontable après construction.
-Débloqué dans « Công nghệ - Extraction - Puits de mine ».</LangValue>
+·Mở khóa trong 'Công nghệ - Khai thác - Puits de mine'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2868,7 +2866,7 @@ L’alcool augmente le Hạnh phúc des Cư dân.</LangValue>
     <LangType>French</LangType>
     <LangValue>Peut transformer le coton en tissu en coton.
 Peut transformer le lin (plante) en lin (tissu).
-Débloqué dans « Công nghệ - Transformation - Tissage ».</LangValue>
+·Mở khóa trong 'Công nghệ - Transformation - Tissage'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2880,7 +2878,7 @@ Débloqué dans « Công nghệ - Transformation - Tissage ».</LangValue>
 Peut transformer le lin (plante) en lin (tissu).
 Alimenté par l’eau, la production est plus élevée.
 Doit être construit une zone grande contenant à la fois de la terre et de l’eau.
-Débloqué dans « Công nghệ - Transformation - Tissage ».</LangValue>
+·Mở khóa trong 'Công nghệ - Transformation - Tissage'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2892,7 +2890,7 @@ Débloqué dans « Công nghệ - Transformation - Tissage ».</LangValue>
 Peut transformer le bois en planches.
 Plus grande efficacité de production.
 Les combustibles domestiques peuvent être utilisés pour garder les Cư dân au chaud.
-Débloqué dans « Công nghệ - Construction - Scierie ».</LangValue>
+·Mở khóa trong 'Công nghệ - Construction - Scierie'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2905,7 +2903,7 @@ Peut transformer le bois en planches.
 Les combustibles domestiques peuvent être utilisés pour garder les Cư dân au chaud.
 Alimenté par l’eau, la production est plus élevée.
 Doit être construit une zone grande contenant à la fois de la terre et de l’eau.
-Débloqué dans « Công nghệ - Construction - Scierie ».</LangValue>
+·Mở khóa trong 'Công nghệ - Construction - Scierie'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2914,7 +2912,7 @@ Débloqué dans « Công nghệ - Construction - Scierie ».</LangValue>
    <Lang>
     <LangType>French</LangType>
     <LangValue>Peut transformer le bois ou le charbon en un combustible raffiné.
-Débloqué dans « Công nghệ - Extraction - Combustible raffiné ».</LangValue>
+·Mở khóa trong 'Công nghệ - Khai thác - Combustible raffiné'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2927,7 +2925,7 @@ Peut produire des spiritueux.
 Peut produire du whisky.
 Peut produire du vin.
 L’alcool augmente le Hạnh phúc des Cư dân.
-Débloqué dans « Công nghệ - Qualité de vie - Fermentation »</LangValue>
+·Mở khóa trong 'Công nghệ - Qualité de vie - Nông trạintation'</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2937,7 +2935,7 @@ Débloqué dans « Công nghệ - Qualité de vie - Fermentation »</LangValue>
     <LangType>French</LangType>
     <LangValue>Peut transformer le blé et l’avoine en farine ou en malt.
 Doit être construit au sol.
-Débloqué dans « Công nghệ - Transformation - Moulin ».
+·Mở khóa trong 'Công nghệ - Transformation - Moulin'.
 Accorde un bonus de prairie dans la zone surlignée.</LangValue>
    </Lang>
   </LangList>
@@ -2949,7 +2947,7 @@ Accorde un bonus de prairie dans la zone surlignée.</LangValue>
     <LangValue>Peut transformer le blé et l’avoine en farine ou en malt.
 Alimenté par l’eau, la production est plus élevée.
 Doit être construit une zone grande contenant à la fois de la terre et de l’eau.
-Débloqué dans « Công nghệ - Transformation - Moulin ».
+·Mở khóa trong 'Công nghệ - Transformation - Moulin'.
 Accorde un bonus de prairie dans la zone surlignée.</LangValue>
    </Lang>
   </LangList>
@@ -2960,7 +2958,7 @@ Accorde un bonus de prairie dans la zone surlignée.</LangValue>
     <LangType>French</LangType>
     <LangValue>Peut produire des aliments simples.
 Une nourriture simple peut accroître le Hạnh phúc des Cư dân.
-Débloqué dans « Công nghệ - Transformation - Dépôt de pains ».</LangValue>
+·Mở khóa trong 'Công nghệ - Transformation - Dépôt de pains'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2977,7 +2975,7 @@ Débloqué dans « Công nghệ - Transformation - Dépôt de pains ».</LangVal
    <Lang>
     <LangType>French</LangType>
     <LangValue>Peut transformer le lait en beurre.
-Débloqué dans « Công nghệ - Transformation - Dépôt de pains ».</LangValue>
+·Mở khóa trong 'Công nghệ - Transformation - Dépôt de pains'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2986,7 +2984,7 @@ Débloqué dans « Công nghệ - Transformation - Dépôt de pains ».</LangVal
    <Lang>
     <LangType>French</LangType>
     <LangValue>Peut transformer le malt, les betteraves, la canne à sucre et la sève d’érable en sucre.
-Débloqué dans « Công nghệ - Transformation - Raffinage du sucre ».</LangValue>
+·Mở khóa trong 'Công nghệ - Transformation - Raffinage du sucre'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -2995,7 +2993,7 @@ Débloqué dans « Công nghệ - Transformation - Raffinage du sucre ».</LangV
    <Lang>
     <LangType>French</LangType>
     <LangValue>Peut transformer les fruits en confiture.
-Débloqué dans « Công nghệ - Transformation - Raffinage du sucre ».</LangValue>
+·Mở khóa trong 'Công nghệ - Transformation - Raffinage du sucre'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -3004,7 +3002,7 @@ Débloqué dans « Công nghệ - Transformation - Raffinage du sucre ».</LangV
    <Lang>
     <LangType>French</LangType>
     <LangValue>Peut produire de la viande salée et du poisson salé.
-Débloqué dans « Công nghệ - Traitement - Production de sel ».</LangValue>
+·Mở khóa trong 'Công nghệ - Chế biến - Làm muối'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -3015,7 +3013,7 @@ Débloqué dans « Công nghệ - Traitement - Production de sel ».</LangValue>
     <LangValue>Peut transformer les roseaux ou le lin (plante) en cordes.
 Peut transformer des cordes en filets de pêche.
 Peut transformer les roseaux en paniers.
-Débloqué dans « Công nghệ - Transformation - Cordage ».</LangValue>
+·Mở khóa trong 'Công nghệ - Transformation - Cordage'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -3026,7 +3024,7 @@ Débloqué dans « Công nghệ - Transformation - Cordage ».</LangValue>
     <LangValue>Peut transformer la fourrure des animaux ou les textiles en vêtements.
 Débloque plus de types de vêtements.
 Les vêtements avancés sont plus chauds.
-Débloqué dans « Công nghệ - Transformation - Tissage ».</LangValue>
+·Mở khóa trong 'Công nghệ - Transformation - Tissage'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -3035,7 +3033,7 @@ Débloqué dans « Công nghệ - Transformation - Tissage ».</LangValue>
    <Lang>
     <LangType>French</LangType>
     <LangValue>Peut transformer le fer et le combustible raffiné en acier.
-Débloqué dans « Công nghệ - Extraction - Fonte ».</LangValue>
+·Mở khóa trong 'Công nghệ - Khai thác - Fonte'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -3046,7 +3044,7 @@ Débloqué dans « Công nghệ - Extraction - Fonte ».</LangValue>
     <LangValue>Peut produire des outils pour les Cư dân.
 Peut également produire des outils avancés.
 Les outils augmentent l’efficacité du travail des Cư dân.
-Débloqué dans « Công nghệ - Extraction - Fonte ».</LangValue>
+·Mở khóa trong 'Công nghệ - Khai thác - Fonte'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -3055,7 +3053,7 @@ Débloqué dans « Công nghệ - Extraction - Fonte ».</LangValue>
    <Lang>
     <LangType>French</LangType>
     <LangValue>Peut produire des kits de construction.
-Débloqué dans « Công nghệ - Extraction - Forge ».</LangValue>
+·Mở khóa trong 'Công nghệ - Khai thác - Forge'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -3065,7 +3063,7 @@ Débloqué dans « Công nghệ - Extraction - Forge ».</LangValue>
     <LangType>French</LangType>
     <LangValue>Peut transformer les roseaux en papier.
 Peut transformer le bois en papier.
-Débloqué dans « Công nghệ - Éducation - Papier ».</LangValue>
+·Mở khóa trong 'Công nghệ - Éducation - Papier'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -3074,7 +3072,7 @@ Débloqué dans « Công nghệ - Éducation - Papier ».</LangValue>
    <Lang>
     <LangType>French</LangType>
     <LangValue>Le papier est utilisable pour augmenter la production de points de développement.
-Débloqué dans « Công nghệ - Éducation - Institut de recherche ».</LangValue>
+·Mở khóa trong 'Công nghệ - Éducation - Institut de recherche'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -3083,7 +3081,7 @@ Débloqué dans « Công nghệ - Éducation - Institut de recherche ».</LangVa
    <Lang>
     <LangType>French</LangType>
     <LangValue>Peut transformer les crottes d’animaux séchées en engrais.
-Débloqué dans « Công nghệ - Agriculture - Compost ».
+·Mở khóa trong 'Công nghệ - Nông nghiệp - Compost'.
 Un sol fertile accorde un bonus de production de +50%.</LangValue>
    </Lang>
   </LangList>
@@ -3093,7 +3091,7 @@ Un sol fertile accorde un bonus de production de +50%.</LangValue>
    <Lang>
     <LangType>French</LangType>
     <LangValue>Peut transformer les haricots et les maïs en fourrage.
-Débloqué dans « Công nghệ - Agriculture - Fourrage ».</LangValue>
+·Mở khóa trong 'Công nghệ - Nông nghiệp - Fourrage'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -3110,7 +3108,7 @@ Débloqué dans « Công nghệ - Agriculture - Fourrage ».</LangValue>
    <Lang>
     <LangType>French</LangType>
     <LangValue>Peut produire des boissons raffinées.
-Débloqué dans « Công nghệ - Qualité de vie - Salon de thé ».</LangValue>
+·Mở khóa trong 'Công nghệ - Qualité de vie - Salon de thé'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -3120,7 +3118,7 @@ Débloqué dans « Công nghệ - Qualité de vie - Salon de thé ».</LangValue
     <LangType>French</LangType>
     <LangValue>Peut produire du bacon, des saucisses và viande fumée.
 La nourriture savoureuse avancée augmente considérablement le Hạnh phúc des Cư dân.
-Débloqué dans 'Công nghệ - Transformation - Transformation de la viande'.</LangValue>
+·Mở khóa trong 'Công nghệ - Transformation - Transformation de la viande'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -3132,7 +3130,7 @@ Débloqué dans 'Công nghệ - Transformation - Transformation de la viande'.</
 Peut produire des fruits en conserves.
 Peut produire du poisson salé en conserves.
 Peut produire de la viande en conserves.
-Débloqué dans « Công nghệ - Transformation - Conserves alimentaires ».</LangValue>
+·Mở khóa trong 'Công nghệ - Transformation - Conserves alimentaires'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -3162,7 +3160,7 @@ Se débloque via Développement - Construction - Meubles</LangValue>
     <LangType>French</LangType>
     <LangValue>Peut transformer la mỡ động vật en huile pour lampe.
 Peut transformer des bouteilles en verre en lanternes.
-Débloqué dans « Công nghệ - Construction - Éclairages ».</LangValue>
+·Mở khóa trong 'Công nghệ - Construction - Éclairages'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -3172,7 +3170,7 @@ Débloqué dans « Công nghệ - Construction - Éclairages ».</LangValue>
     <LangType>French</LangType>
     <LangValue>Peut produire de la porceLen.
 Peut produire des couverts.
-Débloqué dans « Công nghệ - Commerce - Poteries ».</LangValue>
+·Mở khóa trong 'Công nghệ - Commerce - Poteries'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -3181,7 +3179,7 @@ Débloqué dans « Công nghệ - Commerce - Poteries ».</LangValue>
    <Lang>
     <LangType>French</LangType>
     <LangValue>Peut transformer les pierres en pierres taillées.
-Débloqué dans « Công nghệ - Construction - Pierre taillée ».</LangValue>
+·Mở khóa trong 'Công nghệ - Construction - Pierre taillée'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -3191,7 +3189,7 @@ Débloqué dans « Công nghệ - Construction - Pierre taillée ».</LangValue>
     <LangType>French</LangType>
     <LangValue>Peut produire de la nourriture raffinée.
 La nourriture raffinée peut accroître le Hạnh phúc des Cư dân et soulager leur stress.
-Débloqué dans « Công nghệ - Transformation - Boulangerie ».</LangValue>
+·Mở khóa trong 'Công nghệ - Transformation - Boulangerie'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -3201,7 +3199,7 @@ Débloqué dans « Công nghệ - Transformation - Boulangerie ».</LangValue>
     <LangType>French</LangType>
     <LangValue>Peut produire de la nourriture raffinée.
 La nourriture raffinée peut accroître le Hạnh phúc des Cư dân et baisser leur stress.
-Débloqué dans « Công nghệ - Transformation - Banquet carnivore ».</LangValue>
+·Mở khóa trong 'Công nghệ - Transformation - Banquet carnivore'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -3210,7 +3208,7 @@ Débloqué dans « Công nghệ - Transformation - Banquet carnivore ».</LangVa
    <Lang>
     <LangType>French</LangType>
     <LangValue>Peut transformer le cuir raffiné en maroquinerie.
-Débloqué dans « Công nghệ - Transformation - Maroquinerie ».</LangValue>
+·Mở khóa trong 'Công nghệ - Transformation - Maroquinerie'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -3220,7 +3218,7 @@ Débloqué dans « Công nghệ - Transformation - Maroquinerie ».</LangValue>
     <LangType>French</LangType>
     <LangValue>Peut élever des vers à soie en utilisant du mûrier blanc (cultivé dans des vergers).
 Le cocon de ver à soie peut être utilisé comme matière première pour la fabrication de la soie.
-Débloqué dans « Công nghệ - Transformation - Soie ».</LangValue>
+·Mở khóa trong 'Công nghệ - Transformation - Soie'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -3230,7 +3228,7 @@ Débloqué dans « Công nghệ - Transformation - Soie ».</LangValue>
     <LangType>French</LangType>
     <LangValue>Peut produire de l’encre.
 Peut produire des livres.
-Débloqué dans « Công nghệ - Éducation - Fabrication de livres ».</LangValue>
+·Mở khóa trong 'Công nghệ - Éducation - Fabrication de livres'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -3268,7 +3266,7 @@ Sert à produire des kits d'outils</LangValue>
    <Lang>
     <LangType>French</LangType>
     <LangValue>Peut transformer le minerai d’argent en pièces d’argent.
-Débloqué dans « Công nghệ - Extraction - Monnayage ».</LangValue>
+·Mở khóa trong 'Công nghệ - Khai thác - Monnayage'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -3287,7 +3285,7 @@ Débloqué depuis Công nghệ - Éducation - Livres</LangValue>
    <Lang>
     <LangType>French</LangType>
     <LangValue>Peut produire des bijoux.
-Débloqué dans « Công nghệ - Commerce - Bijoux ».</LangValue>
+·Mở khóa trong 'Công nghệ - Commerce - Bijoux'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -3305,7 +3303,7 @@ L’alcool augmente le Hạnh phúc des Cư dân.</LangValue>
    <Lang>
     <LangType>French</LangType>
     <LangValue>Peut produire des statues.
-Débloqué dans « Công nghệ - Commerce - Atelier de sculptures ».</LangValue>
+·Mở khóa trong 'Công nghệ - Commerce - Atelier de sculptures'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -3314,7 +3312,7 @@ Débloqué dans « Công nghệ - Commerce - Atelier de sculptures ».</LangValu
    <Lang>
     <LangType>French</LangType>
     <LangValue>Peut extraire le sable d’or du sable.
-Débloqué dans « Công nghệ - Extraction - Exploitation aurifère ».</LangValue>
+·Mở khóa trong 'Công nghệ - Khai thác - Exploitation aurifère'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -3323,7 +3321,7 @@ Débloqué dans « Công nghệ - Extraction - Exploitation aurifère ».</LangV
    <Lang>
     <LangType>French</LangType>
     <LangValue>Peut trouver du jade dans les pierres.
-Débloqué dans « Công nghệ - Extraction - Maison du jade ».</LangValue>
+·Mở khóa trong 'Công nghệ - Khai thác - Maison du jade'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -3335,7 +3333,7 @@ Débloqué dans « Công nghệ - Extraction - Maison du jade ».</LangValue>
 Débloque les meilleurs vêtements.
 Plus efficace lors de la transformation des vêtements de base.
 Les vêtements avancés sont plus chauds.
-Débloqué dans « Công nghệ - Transformation - Soie ».</LangValue>
+·Mở khóa trong 'Công nghệ - Transformation - Soie'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -3353,7 +3351,7 @@ Débloqué dans « Công nghệ - Transformation - Soie ».</LangValue>
     <LangType>French</LangType>
     <LangValue>Peut transformer le sable et le combustible raffiné en verre et en bouteille en verre.
 Peut transformer l’argile et le combustible raffiné en briques.
-Débloqué dans « Công nghệ - Extraction - Incinérateur ».</LangValue>
+·Mở khóa trong 'Công nghệ - Khai thác - Incinérateur'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -3363,7 +3361,7 @@ Débloqué dans « Công nghệ - Extraction - Incinérateur ».</LangValue>
     <LangType>French</LangType>
     <LangValue>Peut produire des aliments simples và nourriture raffinée.
 La nourriture raffinée peut accroître le Hạnh phúc des Cư dân et baisser leur stress.
-Débloqué dans « Công nghệ - Transformation - Barbecue ».</LangValue>
+·Mở khóa trong 'Công nghệ - Transformation - Barbecue'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -3372,7 +3370,7 @@ Débloqué dans « Công nghệ - Transformation - Barbecue ».</LangValue>
    <Lang>
     <LangType>French</LangType>
     <LangValue>Peut transformer le cuir en cuir raffiné.
-Débloqué dans « Công nghệ - Transformation - Cuir raffiné ».</LangValue>
+·Mở khóa trong 'Công nghệ - Transformation - Cuir raffiné'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -3382,7 +3380,7 @@ Débloqué dans « Công nghệ - Transformation - Cuir raffiné ».</LangValue>
     <LangType>French</LangType>
     <LangValue>Peut produire des bonbons.
 Les bonbons peuvent accroître le Hạnh phúc des Cư dân.
-Débloqué dans « Công nghệ - Qualité de vie - Confiseur ».</LangValue>
+·Mở khóa trong 'Công nghệ - Qualité de vie - Confiseur'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -3390,11 +3388,11 @@ Débloqué dans « Công nghệ - Qualité de vie - Confiseur ».</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Lieu de résidence pour les Cư dân.
-Les occupants peuvent avoir des enfants.
-Peut accueillir jusqu’à 3 occupants.
+    <LangValue>·Nơi ở cho cư dân.
+·Cư dân có thể sinh con.
+·Có thể chứa đến 3 occupants.
 Peut être construit loin de la place du marché.
-Débloqué dans « Công nghệ - Qualité de vie - Tente ».</LangValue>
+·Mở khóa trong 'Công nghệ - Qualité de vie - Tente'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -3415,7 +3413,7 @@ Prend en charge la caractéristique Commande</LangValue>
     <LangType>French</LangType>
     <LangValue>Lieu où les étudiants peuvent recevoir une éducation.
 Les professeurs produisent des points de développement pour la ville.
-Peut accueillir jusqu’à 15 étudiants.</LangValue>
+·Có thể chứa đến 15 étudiants.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -3444,7 +3442,7 @@ Structure avec un bonus d’effet de zone.</LangValue>
    <Lang>
     <LangType>French</LangType>
     <LangValue>Les clients de la taverne sont plus heureux
-50 personnes au maximum</LangValue>
+50 người au maximum</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -3455,7 +3453,7 @@ Structure avec un bonus d’effet de zone.</LangValue>
     <LangValue>Peut fournir un service de bain aux Cư dân dans la zone en surbrillance.
 Améliore la Sức khỏe des Cư dân.
 Structure avec un bonus d’effet de zone.
-Débloqué dans « Công nghệ - Qualité de vie - Bains publics ».</LangValue>
+·Mở khóa trong 'Công nghệ - Qualité de vie - Bains publics'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -3467,7 +3465,7 @@ Débloqué dans « Công nghệ - Qualité de vie - Bains publics ».</LangValue
 Peut guérir les malades.
 Les Cư dân couverts par une assurance Sức khỏe ont une meilleure Sức khỏe.
 Les effets fournis par la structure sont appliqués aux entités situées à proximité.
-Débloqué dans « Công nghệ - Qualité de vie - Hôpital ».</LangValue>
+·Mở khóa trong 'Công nghệ - Qualité de vie - Hôpital'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -3477,7 +3475,7 @@ Débloqué dans « Công nghệ - Qualité de vie - Hôpital ».</LangValue>
     <LangType>French</LangType>
     <LangValue>Structure pour la gestion de la ville.
 Un administrateur peut y être affecté.
-Vous pouvez approuver ou refuser l’immigration de personnes extérieures.</LangValue>
+Vous pouvez approuver ou refuser l’immigration de người extérieures.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -3488,7 +3486,7 @@ Vous pouvez approuver ou refuser l’immigration de personnes extérieures.</Lan
     <LangValue>Peut stocker tous les types d’objets.
 Vous pouvez spécifier les objets à vendre.
 Recevez des pièces d’argent pour les objets vendus. 
-Débloqué dans « Công nghệ - Commerce - Épicerie ».</LangValue>
+·Mở khóa trong 'Công nghệ - Commerce - Épicerie'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -3499,7 +3497,7 @@ Débloqué dans « Công nghệ - Commerce - Épicerie ».</LangValue>
     <LangValue>Peut éduquer les adultes.
 Les professeurs produisent des points de développement pour la ville.
 Peut utiliser le papier pour augmenter l’efficacité de l’enseignement.
-Peut accueillir jusqu’à 35 étudiants.</LangValue>
+·Có thể chứa đến 35 étudiants.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -3519,7 +3517,7 @@ Structure avec un bonus d’effet de zone.</LangValue>
    <Lang>
     <LangType>French</LangType>
     <LangValue>Peut stocker tous les types d’objets.
-Peut accueillir jusqu’à une caravane.
+·Có thể chứa đến une caravane.
 Il faut un certain temps pour commercer avec les autres factions.</LangValue>
    </Lang>
   </LangList>
@@ -3539,8 +3537,8 @@ Il faut un certain temps pour commercer avec les autres factions.</LangValue>
     <LangValue>Peut éduquer les étudiants.
 Les professeurs produisent des points de développement pour la ville.
 Les enfants en âge scolaire peuvent vivre dans l’école.
-Peut accueillir jusqu’à 35 étudiants.
-Débloqué dans « Công nghệ - Éducation - Pensionnat ».</LangValue>
+·Có thể chứa đến 35 étudiants.
+·Mở khóa trong 'Công nghệ - Éducation - Pensionnat'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -3564,7 +3562,7 @@ Se débloque via Développement - Commerce - Grand comptoir commercial</LangValu
     <LangValue>Peut stocker tous les types d’objets.
 Points d’amarrage pour les navires marchands.
 Débloque les fonctions de commande.
-Débloqué dans « Công nghệ - Commerce - Port ».</LangValue>
+·Mở khóa trong 'Công nghệ - Commerce - Port'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -3574,7 +3572,7 @@ Débloqué dans « Công nghệ - Commerce - Port ».</LangValue>
     <LangType>French</LangType>
     <LangValue>Les Cư dân de la zone en surbrillance sont plus heureux.
 Structure avec un bonus d’effet de zone.
-Débloqué dans « Công nghệ - Qualité de vie - Théâtre ».</LangValue>
+·Mở khóa trong 'Công nghệ - Qualité de vie - Théâtre'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -3585,8 +3583,8 @@ Débloqué dans « Công nghệ - Qualité de vie - Théâtre ».</LangValue>
     <LangValue>Peut éduquer les adultes.
 Les professeurs produisent des points de développement pour la ville.
 Le papier peut être consommé pour augmenter l’efficacité de l’enseignement.
-Peut accueillir jusqu’à 50 étudiants.
-Débloqué dans « Công nghệ - Éducation - Académie ».</LangValue>
+·Có thể chứa đến 50 étudiants.
+·Mở khóa trong 'Công nghệ - Éducation - Académie'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -3754,13 +3752,13 @@ ne peuvent pas avoir d'enfants
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Lieu de résidence pour les Cư dân.
-Les occupants peuvent avoir des enfants.
-Peut accueillir jusqu’à 5 occupants.
-Les combustibles durent plus longtemps.
+    <LangValue>·Nơi ở cho cư dân.
+·Cư dân có thể sinh con.
+·Có thể chứa đến 5 occupants.
+·Nhiên liệu tồn tại lâu hơn.
 Avec un plus grand inventaire.
-Construit à côté de la place du marché.
-Débloqué dans « Công nghệ - Qualité de vie - Amélioration de maisons ».</LangValue>
+·Xây dựng gần chợ.
+·Mở khóa trong 'Công nghệ - Qualité de vie - Amélioration de maisons'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -3768,13 +3766,13 @@ Débloqué dans « Công nghệ - Qualité de vie - Amélioration de maisons ».
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Lieu de résidence pour les Cư dân.
-Les occupants peuvent avoir des enfants.
-Peut accueillir jusqu’à 45 occupants.
-Les combustibles durent plus longtemps.
+    <LangValue>·Nơi ở cho cư dân.
+·Cư dân có thể sinh con.
+·Có thể chứa đến 45 occupants.
+·Nhiên liệu tồn tại lâu hơn.
 Avec un plus grand inventaire.
-Construit à côté de la place du marché.
-Débloqué dans « Công nghệ - Qualité de vie - Appartement de luxe ».</LangValue>
+·Xây dựng gần chợ.
+·Mở khóa trong 'Công nghệ - Qualité de vie - Appartement de luxe'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -3794,7 +3792,7 @@ Le carburant dure extrêmement longtemps
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Une maison ordinaire pour &lt;color=#df840e&gt;une famille de 4 personnes&lt;/color&gt;. Fournit un endroit où dormir, manger, boire et rester au chaud pour les Cư dân, ne peut être construite qu'aux marchés.</LangValue>
+    <LangValue>Une maison ordinaire pour &lt;color=#df840e&gt;une famille de 4 người&lt;/color&gt;. Fournit un endroit où dormir, manger, boire et rester au chaud pour les Cư dân, ne peut être construite qu'aux marchés.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -3971,7 +3969,7 @@ Le carburant dure extrêmement longtemps
    <Lang>
     <LangType>French</LangType>
     <LangValue>Peut transformer la viande en côtelette de viande.
-Débloqué dans « Công nghệ - Transformation - Transformation de la viande ».</LangValue>
+·Mở khóa trong 'Công nghệ - Transformation - Transformation de la viande'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -3980,7 +3978,7 @@ Débloqué dans « Công nghệ - Transformation - Transformation de la viande �
    <Lang>
     <LangType>French</LangType>
     <LangValue>Peut produire des médicaments spéciaux, des bandages et autres fournitures médicales.
-Débloqué dans « Công nghệ - Qualité de vie - Pharmacie ».</LangValue>
+·Mở khóa trong 'Công nghệ - Qualité de vie - Pharmacie'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -4078,7 +4076,7 @@ Débloqué dans « Công nghệ - Qualité de vie - Pharmacie ».</LangValue>
     <LangType>French</LangType>
     <LangValue>Peut produire du savon et du savon au sel.
 Le savon et le savon au sel peuvent augmenter la Sức khỏe des Cư dân.
-Débloqué dans « Công nghệ - Qualité de vie - Savon ».</LangValue>
+·Mở khóa trong 'Công nghệ - Qualité de vie - Savon'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -4198,7 +4196,7 @@ Débloqué dans « Công nghệ - Qualité de vie - Savon ».</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Peut accueillir &lt;color=#df840e&gt;deux familles, jusqu’à 8 personnes&lt;/color&gt; avec une longue autonomie en combustible domestique et permet des stocks importants. Doit être placé à portée des places de marché. Peut &lt;color=#df840e&gt;grandement soulager le taux de stress des résidents&lt;/color&gt;. Appuyez sur F pendant le placement pour modifier son style.</LangValue>
+    <LangValue>Peut accueillir &lt;color=#df840e&gt;deux familles, jusqu’à 8 người&lt;/color&gt; avec une longue autonomie en combustible domestique et permet des stocks importants. Doit être placé à portée des places de marché. Peut &lt;color=#df840e&gt;grandement soulager le taux de stress des résidents&lt;/color&gt;. Appuyez sur F pendant le placement pour modifier son style.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -4230,7 +4228,7 @@ Débloqué dans « Công nghệ - Qualité de vie - Savon ».</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Une maison pour &lt;color=#df840e&gt;une famille de 4 personnes&lt;/color&gt;. Assure l’isolation. Les Cư dân peuvent s’y reposer, y manger et y boire. Diminue légèrement le stress. Doit être placé près des places de marché. Appuyez sur F pour changer le style pendant le placement.</LangValue>
+    <LangValue>Une maison pour &lt;color=#df840e&gt;une famille de 4 người&lt;/color&gt;. Assure l’isolation. Les Cư dân peuvent s’y reposer, y manger et y boire. Diminue légèrement le stress. Doit être placé près des places de marché. Appuyez sur F pour changer le style pendant le placement.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -4782,7 +4780,7 @@ Débloqué dans « Công nghệ - Qualité de vie - Savon ».</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Résident de fortune pour une &lt;color=#df840e&gt;famille de 3 personnes &lt;/color&gt; avec une faible consommation de matériaux. Fournit aux Cư dân du repos, de la nourriture et des boissons. Peut être chauffée. &lt;color=#df840e&gt;Peut être placée hors de la zone d'un marché&lt;/color&gt;.</LangValue>
+    <LangValue>Résident de fortune pour une &lt;color=#df840e&gt;famille de 3 người &lt;/color&gt; avec une faible consommation de matériaux. Fournit aux Cư dân du repos, de la nourriture et des boissons. Peut être chauffée. &lt;color=#df840e&gt;Peut être placée hors de la zone d'un marché&lt;/color&gt;.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -4814,7 +4812,7 @@ Débloqué dans « Công nghệ - Qualité de vie - Savon ».</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Un abri temporaire pour &lt;color=#e5763f&gt;24 personnes&lt;/color&gt;. Fournit un endroit où dormir, manger, boire et rester au chaud pour les Cư dân, ne peut être construit qu'aux marchés. Cependant, les appartements surpeuplés provoqueront une &lt;color=#e5763f&gt;perte du désir de procréer&lt;/color&gt;. Convient aux immigrants.</LangValue>
+    <LangValue>Un abri temporaire pour &lt;color=#e5763f&gt;24 người&lt;/color&gt;. Fournit un endroit où dormir, manger, boire et rester au chaud pour les Cư dân, ne peut être construit qu'aux marchés. Cependant, les appartements surpeuplés provoqueront une &lt;color=#e5763f&gt;perte du désir de procréer&lt;/color&gt;. Convient aux immigrants.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -4982,7 +4980,7 @@ Débloqué dans « Công nghệ - Qualité de vie - Savon ».</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Une maison agréable pour &lt;color=#df840e&gt;une famille de 5 personnes&lt;/color&gt;. Plus grande capacité de stockage qu'une &lt;color=#df840e&gt;maison à deux étages&lt;/color&gt;, le combustible dure plus longtemps, et permet de &lt;color=#df840e&gt;plus se détendre&lt;/color&gt;, ne peut être construite qu'aux marchés.Appuyez sur F pendant l'aperçu pour en changer le type.</LangValue>
+    <LangValue>Une maison agréable pour &lt;color=#df840e&gt;une famille de 5 người&lt;/color&gt;. Plus grande capacité de stockage qu'une &lt;color=#df840e&gt;maison à deux étages&lt;/color&gt;, le combustible dure plus longtemps, et permet de &lt;color=#df840e&gt;plus se détendre&lt;/color&gt;, ne peut être construite qu'aux marchés.Appuyez sur F pendant l'aperçu pour en changer le type.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -5086,7 +5084,7 @@ Débloqué dans « Công nghệ - Qualité de vie - Savon ».</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Un abri temporaire pour &lt;color=#df840e&gt;32 personnes&lt;/color&gt;. Plus grande capacité de stockage qu'un &lt;color=#df840e&gt;appartement&lt;/color&gt; et le combustible dure plus longtemps, ne peut être construit qu'aux marchés.</LangValue>
+    <LangValue>Un abri temporaire pour &lt;color=#df840e&gt;32 người&lt;/color&gt;. Plus grande capacité de stockage qu'un &lt;color=#df840e&gt;appartement&lt;/color&gt; et le combustible dure plus longtemps, ne peut être construit qu'aux marchés.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -5478,7 +5476,7 @@ Débloqué dans « Công nghệ - Qualité de vie - Savon ».</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Logement de luxe pour &lt;color=#df840e&gt;deux familles (8 personnes)&lt;/color&gt;. Plus grande capacité de stockage, le combustible dure plus longtemps, et permet de &lt;color=#df840e&gt;beaucoup plus se détendre&lt;/color&gt;, ne peut être construit qu'aux marchés.</LangValue>
+    <LangValue>Logement de luxe pour &lt;color=#df840e&gt;deux familles (8 người)&lt;/color&gt;. Plus grande capacité de stockage, le combustible dure plus longtemps, et permet de &lt;color=#df840e&gt;beaucoup plus se détendre&lt;/color&gt;, ne peut être construit qu'aux marchés.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -5774,7 +5772,7 @@ Débloqué dans « Công nghệ - Qualité de vie - Savon ».</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Extraction de sable</LangValue>
+    <LangValue>Khai thác de sable</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -6062,7 +6060,7 @@ Débloqué dans « Công nghệ - Qualité de vie - Savon ».</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Entrepôt</LangValue>
+    <LangValue>Nhà kho</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -6150,7 +6148,7 @@ Débloqué dans « Công nghệ - Qualité de vie - Savon ».</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Entrepôt avancé</LangValue>
+    <LangValue>Nhà kho avancé</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -6174,7 +6172,7 @@ Débloqué dans « Công nghệ - Qualité de vie - Savon ».</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Station de transfert</LangValue>
+    <LangValue>Trạm trung chuyển</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -6182,7 +6180,7 @@ Débloqué dans « Công nghệ - Qualité de vie - Savon ».</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Entrepôt</LangValue>
+    <LangValue>Nhà kho</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -6222,7 +6220,7 @@ Débloqué dans « Công nghệ - Qualité de vie - Savon ».</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Entrepôt de montagne</LangValue>
+    <LangValue>Nhà kho de montagne</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -6318,7 +6316,7 @@ Débloqué dans « Công nghệ - Qualité de vie - Savon ».</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Pépinière</LangValue>
+    <LangValue>Vườn ươm</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -6326,7 +6324,7 @@ Débloqué dans « Công nghệ - Qualité de vie - Savon ».</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Carrière</LangValue>
+    <LangValue>Mỏ đá</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -6358,7 +6356,7 @@ Débloqué dans « Công nghệ - Qualité de vie - Savon ».</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Ferme</LangValue>
+    <LangValue>Nông trại</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -6366,7 +6364,7 @@ Débloqué dans « Công nghệ - Qualité de vie - Savon ».</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Bosquet</LangValue>
+    <LangValue>Rừng cây</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -6390,7 +6388,7 @@ Débloqué dans « Công nghệ - Qualité de vie - Savon ».</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Ferme Forestière</LangValue>
+    <LangValue>Nông trại Forestière</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -6422,7 +6420,7 @@ Débloqué dans « Công nghệ - Qualité de vie - Savon ».</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Ferme standard</LangValue>
+    <LangValue>Nông trại standard</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -6494,7 +6492,7 @@ Débloqué dans « Công nghệ - Qualité de vie - Savon ».</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Carrière principale</LangValue>
+    <LangValue>Mỏ đá principale</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -6502,7 +6500,7 @@ Débloqué dans « Công nghệ - Qualité de vie - Savon ».</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Carrière profonde</LangValue>
+    <LangValue>Mỏ đá profonde</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -6510,7 +6508,7 @@ Débloqué dans « Công nghệ - Qualité de vie - Savon ».</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Carrière de montagne</LangValue>
+    <LangValue>Mỏ đá de montagne</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -6518,7 +6516,7 @@ Débloqué dans « Công nghệ - Qualité de vie - Savon ».</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Carrière de montagne</LangValue>
+    <LangValue>Mỏ đá de montagne</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -6590,7 +6588,7 @@ Débloqué dans « Công nghệ - Qualité de vie - Savon ».</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Carrière</LangValue>
+    <LangValue>Mỏ đá</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -7638,7 +7636,7 @@ Débloqué dans « Công nghệ - Qualité de vie - Savon ».</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Peut accueillir &lt;color=#df840e&gt;une famille, jusqu’à 5 personnes&lt;/color&gt; avec une longue autonomie en combustible domestique et permet des stocks importants. Doit être placé à portée des places de marché. Peut &lt;color=#df840e&gt;grandement soulager le taux de stress des résidents&lt;/color&gt;. Appuyez sur F pendant le placement pour modifier son style.</LangValue>
+    <LangValue>Peut accueillir &lt;color=#df840e&gt;une famille, jusqu’à 5 người&lt;/color&gt; avec une longue autonomie en combustible domestique et permet des stocks importants. Doit être placé à portée des places de marché. Peut &lt;color=#df840e&gt;grandement soulager le taux de stress des résidents&lt;/color&gt;. Appuyez sur F pendant le placement pour modifier son style.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -7878,7 +7876,7 @@ Débloqué dans « Công nghệ - Qualité de vie - Savon ».</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Le rendement de la Ferme Forestière augmente lorsqu'on utilise des Engrais.</LangValue>
+    <LangValue>Le rendement de la Nông trại Forestière augmente lorsqu'on utilise des Engrais.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -8495,7 +8493,7 @@ Ouvrez Services (raccourci : 6) pour construire 3 &lt;color=#df840e&gt;instituts
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Nombre de personnes</LangValue>
+    <LangValue>Nombre de người</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -8942,7 +8940,7 @@ Ngân lượng -99 999
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Peut accueillir &lt;color=#df840e&gt;15 familles, jusqu’à 45 personnes&lt;/color&gt; avec un plus grand inventaire qu’un &lt;color=#df840e&gt;appartement&lt;/color&gt;. Le combustible dure plus longtemps. Chaque famille qui y vit peut &lt;color=#df840e&gt;avoir un enfant&lt;/color&gt;. Construit près de la &lt;color=#df840e&gt;place du marché&lt;/color&gt;.</LangValue>
+    <LangValue>Peut accueillir &lt;color=#df840e&gt;15 familles, jusqu’à 45 người&lt;/color&gt; avec un plus grand inventaire qu’un &lt;color=#df840e&gt;appartement&lt;/color&gt;. Le combustible dure plus longtemps. Chaque famille qui y vit peut &lt;color=#df840e&gt;avoir un enfant&lt;/color&gt;. Construit près de la &lt;color=#df840e&gt;place du marché&lt;/color&gt;.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -9766,7 +9764,7 @@ Ngân lượng -99 999
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Réserve de pierre faible. Les constructions peuvent être affectées. La pierre peut être récupérée dans la nature ou extrait d'une Carrière.</LangValue>
+    <LangValue>Réserve de pierre faible. Les constructions peuvent être affectées. La pierre peut être récupérée dans la nature ou extrait d'une Mỏ đá.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -9830,7 +9828,7 @@ Ngân lượng -99 999
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Tous les Entrepôts sont pleins ! Vous devez construire une &lt;color=#df840e&gt;Aire de Stockage&lt;/color&gt;, sinon la production des structures sera &lt;color=#df840e&gt;arrêtée&lt;/color&gt; !</LangValue>
+    <LangValue>Tous les Nhà khos sont pleins ! Vous devez construire une &lt;color=#df840e&gt;Aire de Stockage&lt;/color&gt;, sinon la production des structures sera &lt;color=#df840e&gt;arrêtée&lt;/color&gt; !</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -10118,7 +10116,7 @@ Ngân lượng -99 999
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Souffre d’une maladie qui pourrait se propager à d’autres personnes.</LangValue>
+    <LangValue>Souffre d’une maladie qui pourrait se propager à d’autres người.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -10150,7 +10148,7 @@ Ngân lượng -99 999
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Souffre de choléra qui pourrait se propager à d'autres personnes.</LangValue>
+    <LangValue>Souffre de choléra qui pourrait se propager à d'autres người.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -10158,7 +10156,7 @@ Ngân lượng -99 999
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Souffre de la rougeole qui pourrait se propager à d'autres personnes.</LangValue>
+    <LangValue>Souffre de la rougeole qui pourrait se propager à d'autres người.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -10166,7 +10164,7 @@ Ngân lượng -99 999
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Souffre de la tuberculose qui pourrait se propager à d'autres personnes.</LangValue>
+    <LangValue>Souffre de la tuberculose qui pourrait se propager à d'autres người.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -10174,7 +10172,7 @@ Ngân lượng -99 999
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Souffre de la grippe qui pourrait se propager à d'autres personnes.</LangValue>
+    <LangValue>Souffre de la grippe qui pourrait se propager à d'autres người.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -10440,7 +10438,7 @@ Ngân lượng -99 999
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Sélectionnez dans Agriculture (raccourci : 2)
+    <LangValue>Sélectionnez dans Nông nghiệp (raccourci : 2)
 Les agriculteurs ne commencent à semer qu’après avoir &lt;color=#df840e&gt;choisi les graines&lt;/color&gt;.
 Ce n’est qu’à la saison et à la température appropriées qu’un champ peut être semé et récolté.</LangValue>
    </Lang>
@@ -10547,7 +10545,7 @@ La production sera &lt;color=#df840e&gt;arrêtée&lt;/color&gt; et les travaille
    <Lang>
     <LangType>French</LangType>
     <LangValue>Sélectionnez cela dans Service (raccourci : 6).
-La clinique peut guérir les personnes malades.
+La clinique peut guérir les người malades.
 La clinique peut augmenter la &lt;color=#df840e&gt;Sức khỏe&lt;/color&gt; dans Cư dân dans sa zone d’effet.</LangValue>
    </Lang>
   </LangList>
@@ -10686,7 +10684,7 @@ Les bâtiments de type transformation ne commenceront à produire seulement lors
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Ouvrez la barre d’outils &lt;color=#df840e&gt;Agriculture&lt;/color&gt; (raccourci : 2) et construisez une &lt;color=#df840e&gt;terre agricole&lt;/color&gt;. Une fois construite, vous devez sélectionner une culture ciblée.</LangValue>
+    <LangValue>Ouvrez la barre d’outils &lt;color=#df840e&gt;Nông nghiệp&lt;/color&gt; (raccourci : 2) et construisez une &lt;color=#df840e&gt;terre agricole&lt;/color&gt;. Une fois construite, vous devez sélectionner une culture ciblée.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -10782,7 +10780,7 @@ Les bâtiments de type transformation ne commenceront à produire seulement lors
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Sélectionnez et construisez un &lt;color=#df840e&gt;quai de pêche&lt;/color&gt; dans la barre d’outils Agriculture.</LangValue>
+    <LangValue>Sélectionnez et construisez un &lt;color=#df840e&gt;quai de pêche&lt;/color&gt; dans la barre d’outils Nông nghiệp.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -10830,7 +10828,7 @@ Les bâtiments de type transformation ne commenceront à produire seulement lors
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Ouvrez &lt;color=#df840e&gt;Công nghệ - Extraction&lt;/color&gt; pour débloquer la Công nghệ d'&lt;color=#df840e&gt;extraction d'argent&lt;/color&gt;.</LangValue>
+    <LangValue>Ouvrez &lt;color=#df840e&gt;Công nghệ - Khai thác&lt;/color&gt; pour débloquer la Công nghệ d'&lt;color=#df840e&gt;extraction d'argent&lt;/color&gt;.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -11111,7 +11109,7 @@ Conseil : cliquez sur le bouton droit de la souris pour fermer la barre de const
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Cliquer sur &lt;color=#df840e&gt;le nombre de personnes situé en haut de l'écran&lt;/color&gt; affiche les informations de la ville, mais permet également de consulter le métier des Cư dân et la structure de la population dont le ratio hommes/femmes, le taux de fertilité, etc.</LangValue>
+    <LangValue>Cliquer sur &lt;color=#df840e&gt;le nombre de người situé en haut de l'écran&lt;/color&gt; affiche les informations de la ville, mais permet également de consulter le métier des Cư dân et la structure de la population dont le ratio hommes/femmes, le taux de fertilité, etc.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -11337,7 +11335,7 @@ Consomme du pain cérémoniel ou des lanternes pour un meilleur bonus de Hạnh 
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Ouvrez Traitement pour construire une &lt;color=#df840e&gt;scierie&lt;/color&gt;. Ouvrez le menu de structure de la scierie et sélectionnez &lt;color=#df840e&gt;Matériau de construction - Planche&lt;/color&gt;.</LangValue>
+    <LangValue>Ouvrez Chế biến pour construire une &lt;color=#df840e&gt;scierie&lt;/color&gt;. Ouvrez le menu de structure de la scierie et sélectionnez &lt;color=#df840e&gt;Matériau de construction - Planche&lt;/color&gt;.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -11531,7 +11529,7 @@ Appuyez sur &lt;color=#df840e&gt;F&lt;/color&gt; pour basculer entre certains ty
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>&lt;color=#ff0033&gt;100 personnes max. dans la démo&lt;/color&gt;</LangValue>
+    <LangValue>&lt;color=#ff0033&gt;100 người max. dans la démo&lt;/color&gt;</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -11759,7 +11757,7 @@ Les &lt;color=#df840e&gt;nouvelles graines&lt;/color&gt; s'obtiennent principale
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Il vous faut plus d’&lt;color=#df840e&gt;aires de stockage&lt;/color&gt;, elles se trouvent dans &lt;color=#df840e&gt;Logistique(5)&lt;/color&gt;.</LangValue>
+    <LangValue>Il vous faut plus d’&lt;color=#df840e&gt;aires de stockage&lt;/color&gt;, elles se trouvent dans &lt;color=#df840e&gt;Hậu cần(5)&lt;/color&gt;.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -12007,7 +12005,7 @@ Les Cư dân peuvent avoir &lt;color=#df840e&gt;soif&lt;/color&gt; s'ils manquen
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Certains Cư dân ont &lt;color=#df840e&gt;faim&lt;/color&gt;. Sélectionnez Cueillir des plantes dans la barre d’outils de commande pour affecter des ouvriers à la collecte de légumes sauvages. Les personnes actuellement sans emploi participeront à la collecte.</LangValue>
+    <LangValue>Certains Cư dân ont &lt;color=#df840e&gt;faim&lt;/color&gt;. Sélectionnez Cueillir des plantes dans la barre d’outils de commande pour affecter des ouvriers à la collecte de légumes sauvages. Les người actuellement sans emploi participeront à la collecte.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -12953,7 +12951,7 @@ Voici la liste de ces incroyables héros :</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Faible fréquence d’images détectée. Cliquez sur « Confirmer » pour réduire la qualité graphique et augmenter la fréquence d’images.</LangValue>
+    <LangValue>Faible fréquence d’images détectée. Cliquez sur 'Confirmer' pour réduire la qualité graphique et augmenter la fréquence d’images.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -17569,7 +17567,7 @@ Voici la liste de ces incroyables héros :</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Agriculture</LangValue>
+    <LangValue>Nông nghiệp</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -17593,7 +17591,7 @@ Voici la liste de ces incroyables héros :</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Logistique</LangValue>
+    <LangValue>Hậu cần</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -17817,7 +17815,7 @@ Voici la liste de ces incroyables héros :</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Cacher l'icône Ferme gratuite</LangValue>
+    <LangValue>Cacher l'icône Nông trại gratuite</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -17905,7 +17903,7 @@ Voici la liste de ces incroyables héros :</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Affectation Auto des personnes aux postes de travail</LangValue>
+    <LangValue>Affectation Auto des người aux postes de travail</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -18517,7 +18515,7 @@ Vous devez ajuster le stress des Cư dân, contrôler la population et prêter a
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>&lt;color=#df840e&gt;Lorsque la population atteint un certain niveau&lt;/color&gt;, des personnes talentueuses émergeront. Vous pouvez les choisir pour devenir gouverneurs de la ville lorsque vous avez un &lt;color=#df840e&gt;Hôtel de vIlle&lt;/color&gt;. D’autres administrateurs peuvent être embauchés au fur et à mesure que la ville se développe, avec jusqu’à 10 administrateurs pour aider au développement de la ville après la construction du Grand Temple de la faction.</LangValue>
+    <LangValue>&lt;color=#df840e&gt;Lorsque la population atteint un certain niveau&lt;/color&gt;, des người talentueuses émergeront. Vous pouvez les choisir pour devenir gouverneurs de la ville lorsque vous avez un &lt;color=#df840e&gt;Hôtel de vIlle&lt;/color&gt;. D’autres administrateurs peuvent être embauchés au fur et à mesure que la ville se développe, avec jusqu’à 10 administrateurs pour aider au développement de la ville après la construction du Grand Temple de la faction.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -18855,7 +18853,7 @@ Jade : produite dans l’atelier de jade. Sert à construire les avenues de jade
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Entrepôt</LangValue>
+    <LangValue>Nhà kho</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -19439,7 +19437,7 @@ Jade : produite dans l’atelier de jade. Sert à construire les avenues de jade
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Entrepôt plein</LangValue>
+    <LangValue>Nhà kho plein</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -20414,7 +20412,7 @@ La clinique, l'hôpital, les herbes, le savon et les bains publics peuvent amél
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Nombre de personnes affamées</LangValue>
+    <LangValue>Nombre de người affamées</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -20688,7 +20686,7 @@ Cliquer pour afficher les infos</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>La population a atteint 50 personnes.</LangValue>
+    <LangValue>La population a atteint 50 người.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -20696,7 +20694,7 @@ Cliquer pour afficher les infos</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>La population a atteint 150 personnes.</LangValue>
+    <LangValue>La population a atteint 150 người.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -20704,7 +20702,7 @@ Cliquer pour afficher les infos</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>La population a atteint 250 personnes.</LangValue>
+    <LangValue>La population a atteint 250 người.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -20712,7 +20710,7 @@ Cliquer pour afficher les infos</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>La population a atteint 350 personnes.</LangValue>
+    <LangValue>La population a atteint 350 người.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -20720,7 +20718,7 @@ Cliquer pour afficher les infos</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>La population a atteint 450 personnes.</LangValue>
+    <LangValue>La population a atteint 450 người.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -21904,7 +21902,7 @@ Cliquer pour afficher les infos</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>500 personnes</LangValue>
+    <LangValue>500 người</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -21920,7 +21918,7 @@ Cliquer pour afficher les infos</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>1 000 personnes</LangValue>
+    <LangValue>1 000 người</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -21928,7 +21926,7 @@ Cliquer pour afficher les infos</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>2 000 personnes</LangValue>
+    <LangValue>2 000 người</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -24136,7 +24134,7 @@ Les cabanes de collecteurs sont plus efficaces au début, en raison de l’abond
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Ouvrier de Carrière</LangValue>
+    <LangValue>Ouvrier de Mỏ đá</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -25496,7 +25494,7 @@ Les cabanes de collecteurs sont plus efficaces au début, en raison de l’abond
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Pépinière produisant de jeunes arbres de décoration.</LangValue>
+    <LangValue>Vườn ươm produisant de jeunes arbres de décoration.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -25504,7 +25502,7 @@ Les cabanes de collecteurs sont plus efficaces au début, en raison de l’abond
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Pépinière produisant herbes médicinales.</LangValue>
+    <LangValue>Vườn ươm produisant herbes médicinales.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -29512,7 +29510,7 @@ Les cabanes de collecteurs sont plus efficaces au début, en raison de l’abond
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Débloquer la &lt;color=#df840e&gt;Carrière&lt;/color&gt;.</LangValue>
+    <LangValue>Débloquer la &lt;color=#df840e&gt;Mỏ đá&lt;/color&gt;.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -29728,7 +29726,7 @@ Les cabanes de collecteurs sont plus efficaces au début, en raison de l’abond
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Extraction</LangValue>
+    <LangValue>Khai thác</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -29856,7 +29854,7 @@ Les cabanes de collecteurs sont plus efficaces au début, en raison de l’abond
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Extraction de sable</LangValue>
+    <LangValue>Khai thác de sable</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -29904,7 +29902,7 @@ Les cabanes de collecteurs sont plus efficaces au début, en raison de l’abond
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Carrière</LangValue>
+    <LangValue>Mỏ đá</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -30120,7 +30118,7 @@ Les cabanes de collecteurs sont plus efficaces au début, en raison de l’abond
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Bosquet</LangValue>
+    <LangValue>Rừng cây</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -30128,7 +30126,7 @@ Les cabanes de collecteurs sont plus efficaces au début, en raison de l’abond
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Ferme forestière</LangValue>
+    <LangValue>Lâm trang</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -30296,7 +30294,7 @@ Les cabanes de collecteurs sont plus efficaces au début, en raison de l’abond
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Pépinière</LangValue>
+    <LangValue>Vườn ươm</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -30320,7 +30318,7 @@ Les cabanes de collecteurs sont plus efficaces au début, en raison de l’abond
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Traitement médical</LangValue>
+    <LangValue>Chế biến médical</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -30384,7 +30382,7 @@ Les cabanes de collecteurs sont plus efficaces au début, en raison de l’abond
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Entrepôt</LangValue>
+    <LangValue>Nhà kho</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -30448,7 +30446,7 @@ Les cabanes de collecteurs sont plus efficaces au début, en raison de l’abond
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Station de transfert</LangValue>
+    <LangValue>Trạm trung chuyển</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -31096,7 +31094,7 @@ Les cabanes de collecteurs sont plus efficaces au début, en raison de l’abond
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Production de sel</LangValue>
+    <LangValue>Làm muối</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -31584,7 +31582,7 @@ Les cabanes de collecteurs sont plus efficaces au début, en raison de l’abond
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Production de sel</LangValue>
+    <LangValue>Làm muối</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -31920,7 +31918,7 @@ Les cabanes de collecteurs sont plus efficaces au début, en raison de l’abond
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Extraction</LangValue>
+    <LangValue>Khai thác</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -32032,7 +32030,7 @@ Les cabanes de collecteurs sont plus efficaces au début, en raison de l’abond
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Extraction de sable</LangValue>
+    <LangValue>Khai thác de sable</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -32056,7 +32054,7 @@ Les cabanes de collecteurs sont plus efficaces au début, en raison de l’abond
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Carrière</LangValue>
+    <LangValue>Mỏ đá</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -32216,7 +32214,7 @@ Les cabanes de collecteurs sont plus efficaces au début, en raison de l’abond
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Ferme</LangValue>
+    <LangValue>Nông trại</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -32224,7 +32222,7 @@ Les cabanes de collecteurs sont plus efficaces au début, en raison de l’abond
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Bosquet</LangValue>
+    <LangValue>Rừng cây</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -32232,7 +32230,7 @@ Les cabanes de collecteurs sont plus efficaces au début, en raison de l’abond
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Ferme forestière</LangValue>
+    <LangValue>Lâm trang</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -32392,7 +32390,7 @@ Les cabanes de collecteurs sont plus efficaces au début, en raison de l’abond
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Pépinière</LangValue>
+    <LangValue>Vườn ươm</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -32448,7 +32446,7 @@ Les cabanes de collecteurs sont plus efficaces au début, en raison de l’abond
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Bonus de stockage</LangValue>
+    <LangValue>Tăng cường lưu trữ</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -32456,7 +32454,7 @@ Les cabanes de collecteurs sont plus efficaces au début, en raison de l’abond
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Entrepôt</LangValue>
+    <LangValue>Nhà kho</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -32488,7 +32486,7 @@ Les cabanes de collecteurs sont plus efficaces au début, en raison de l’abond
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Station de transfert</LangValue>
+    <LangValue>Trạm trung chuyển</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -32731,7 +32729,7 @@ Peut être placée hors de portée des marchés.</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Extraction</LangValue>
+    <LangValue>Khai thác</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -32747,7 +32745,7 @@ Peut être placée hors de portée des marchés.</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Agriculture</LangValue>
+    <LangValue>Nông nghiệp</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -32763,7 +32761,7 @@ Peut être placée hors de portée des marchés.</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Logistique</LangValue>
+    <LangValue>Hậu cần</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -33275,7 +33273,7 @@ Peut être placée hors de portée des marchés.</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Entrepôt</LangValue>
+    <LangValue>Nhà kho</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -33987,7 +33985,7 @@ Peut être placée hors de portée des marchés.</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Entrepôt</LangValue>
+    <LangValue>Nhà kho</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -34147,7 +34145,7 @@ Peut être placée hors de portée des marchés.</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Logistique</LangValue>
+    <LangValue>Hậu cần</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -34163,7 +34161,7 @@ Peut être placée hors de portée des marchés.</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Agriculture</LangValue>
+    <LangValue>Nông nghiệp</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -34275,7 +34273,7 @@ Peut être placée hors de portée des marchés.</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Agriculture (raccourci : &lt;color=#df840e&gt;{0}&lt;/color&gt;)</LangValue>
+    <LangValue>Nông nghiệp (raccourci : &lt;color=#df840e&gt;{0}&lt;/color&gt;)</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -34323,7 +34321,7 @@ Peut être placée hors de portée des marchés.</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Traitement (raccourci : &lt;color=#df840e&gt;{0}&lt;/color&gt;).</LangValue>
+    <LangValue>Chế biến (raccourci : &lt;color=#df840e&gt;{0}&lt;/color&gt;).</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -34387,7 +34385,7 @@ Peut être placée hors de portée des marchés.</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Fermer</LangValue>
+    <LangValue>Nông trạir</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -35159,10 +35157,10 @@ Limite de difficulté : Facile</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Un endroit pour les personnes âgées stériles.
-Capable d’accueillir 36 personnes.
+    <LangValue>Un endroit pour les người âgées stériles.
+Capable d’accueillir 36 người.
 Faible consommation de combustible, mais nécessite d’être construit près de la place du marché. 
-Débloqué dans « Công nghệ - Qualité de vie - maison de retraite ».</LangValue>
+·Mở khóa trong 'Công nghệ - Qualité de vie - maison de retraite'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -35170,7 +35168,7 @@ Débloqué dans « Công nghệ - Qualité de vie - maison de retraite ».</Lang
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Résidence pour personnes âgées</LangValue>
+    <LangValue>Résidence pour người âgées</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -35203,7 +35201,7 @@ Débloqué dans « Công nghệ - Qualité de vie - maison de retraite ».</Lang
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Résidence pour personnes âgées</LangValue>
+    <LangValue>Résidence pour người âgées</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -35211,7 +35209,7 @@ Débloqué dans « Công nghệ - Qualité de vie - maison de retraite ».</Lang
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Résidence pour personnes âgées</LangValue>
+    <LangValue>Résidence pour người âgées</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -35219,7 +35217,7 @@ Débloqué dans « Công nghệ - Qualité de vie - maison de retraite ».</Lang
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Les conditions de vie ont été améliorées. La &lt;color=#df840e&gt;résidence pour personnes âgées&lt;/color&gt; a été débloquée.</LangValue>
+    <LangValue>Les conditions de vie ont été améliorées. La &lt;color=#df840e&gt;résidence pour người âgées&lt;/color&gt; a été débloquée.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -35243,12 +35241,12 @@ Débloqué dans « Công nghệ - Qualité de vie - maison de retraite ».</Lang
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Peut stocker des objets.
+    <LangValue>·Có thể lưu trữ vật phẩm.
 Structure avec une zone en surbrillance.
-Surface au sol plus petite.
+·Diện tích sàn nhỏ hơn.
 Collecte les objets désignés dans tous les entrepôts.
 Livre les matières premières essentielles aux bâtiments de production dans la zone en surbrillance.
-Débloqué dans « Công nghệ - Logistique - Centre de livraison ».</LangValue>
+·Mở khóa trong 'Công nghệ - Hậu cần - Centre de livraison'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -35785,7 +35783,7 @@ Le fantôme a sorti des bonbons, il voulait vraisemblablement les partager avec 
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Peut accueillir &lt;color=#e5763f&gt;36 personnes&lt;/color&gt;. Doit être construit près de la &lt;color=#e5763f&gt;place du marché&lt;/color&gt;. Capable de stocker suffisamment de fournitures et de combustible pour assurer la vie de base des résidents. &lt;color=#e5763f&gt;Les personnes âgées qui sont incapables d’avoir des enfants&lt;/color&gt; s’y installeront volontairement.</LangValue>
+    <LangValue>Peut accueillir &lt;color=#e5763f&gt;36 người&lt;/color&gt;. Doit être construit près de la &lt;color=#e5763f&gt;place du marché&lt;/color&gt;. Capable de stocker suffisamment de fournitures et de combustible pour assurer la vie de base des résidents. &lt;color=#e5763f&gt;Les người âgées qui sont incapables d’avoir des enfants&lt;/color&gt; s’y installeront volontairement.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -35865,7 +35863,7 @@ Le fantôme a sorti des bonbons, il voulait vraisemblablement les partager avec 
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Industrie ou Agriculture</LangValue>
+    <LangValue>Industrie ou Nông nghiệp</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -36410,7 +36408,7 @@ Le fantôme a sorti des bonbons, il voulait vraisemblablement les partager avec 
    <Lang>
     <LangType>French</LangType>
     <LangValue>Le citoyen s’est réveillé.
-« J’avais l’impression d’être dans un long rêve, où j’étais seul dans un désert. Je n’arrivais pas à en sortir, où que j'aille. Maintenant j’ai très faim et très soif. »</LangValue>
+'J’avais l’impression d’être dans un long rêve, où j’étais seul dans un désert. Je n’arrivais pas à en sortir, où que j'aille. Maintenant j’ai très faim et très soif.'</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -36419,7 +36417,7 @@ Le fantôme a sorti des bonbons, il voulait vraisemblablement les partager avec 
    <Lang>
     <LangType>French</LangType>
     <LangValue>Après deux jours, le citoyen s’est réveillé.
-« J’avais l’impression d’être dans un long rêve, où j’étais seul dans un désert. Je n’arrivais pas à en sortir, où que j'aille. Au départ, j'avais très faim et très soif, mais maintenant je ne ressens plus rien. »</LangValue>
+'J’avais l’impression d’être dans un long rêve, où j’étais seul dans un désert. Je n’arrivais pas à en sortir, où que j'aille. Au départ, j'avais très faim et très soif, mais maintenant je ne ressens plus rien.'</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -36444,7 +36442,7 @@ Le fantôme a sorti des bonbons, il voulait vraisemblablement les partager avec 
    <Lang>
     <LangType>French</LangType>
     <LangValue>Un mystérieux marchand, habillé comme un étranger, est arrivé dans la colonie et a vendu ses marchandises aux Cư dân qui passaient par là. 
-« 200 Croissant pour à peine 1000 Ngân lượng ! Profitez de cette offre avant qu’il ne soit trop tard ! »</LangValue>
+'200 Croissant pour à peine 1000 Ngân lượng ! Profitez de cette offre avant qu’il ne soit trop tard !'</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -37244,7 +37242,7 @@ Le fantôme a sorti des bonbons, il voulait vraisemblablement les partager avec 
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>L'Alpaca résiste farouchement et s'enfuit après avoir blessé plusieurs personnes.</LangValue>
+    <LangValue>L'Alpaca résiste farouchement et s'enfuit après avoir blessé plusieurs người.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -37972,7 +37970,7 @@ Le fantôme a sorti des bonbons, il voulait vraisemblablement les partager avec 
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>La tempête de sable détruira tous les bâtiments et les arbres sur son passage et emportera les personnes et les animaux.</LangValue>
+    <LangValue>La tempête de sable détruira tous les bâtiments et les arbres sur son passage et emportera les người et les animaux.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -38079,7 +38077,7 @@ Centre civique et tourisme : Développez le tourisme, augmentez la consommation 
 Plans : De nouveaux plans pour les structures et les effets enrichiront l'expérience de jeu en fournissant des méthodes de développement et des voies de réussite supplémentaires.
 Workshop du joueur : Des outils d'édition de MOD seront disponibles.
 Multijoueur (possible) : Mode en ligne où plusieurs joueurs peuvent interagir et se développer sur la même carte.
-Transport et logistique (possible) : Logistique et lignes de transport plus complexes, vous permettant de gérer les routes industrielles comme vous le souhaitez.
+Transport et logistique (possible) : Hậu cần et lignes de transport plus complexes, vous permettant de gérer les routes industrielles comme vous le souhaitez.
 Multi-langue : Version anglaise.
 '
 
@@ -38374,7 +38372,7 @@ Il y avait plus de 20 réfugiés des zones de famine qui essayaient d'obtenir de
    <Lang>
     <LangType>French</LangType>
     <LangValue>Certains artisans venus d’ailleurs passaient par la ville et souhaitaient s’engager dans un apprentissage collaboratif avec les habitants.
-« Tout ici est si bien fait ! Votre artisanat est très avancé ! Pouvez-vous me montrer vos outils ? »</LangValue>
+'Tout ici est si bien fait ! Votre artisanat est très avancé ! Pouvez-vous me montrer vos outils ?'</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -38654,7 +38652,7 @@ Il y avait plus de 20 réfugiés des zones de famine qui essayaient d'obtenir de
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Plus de personnes dans la caravane réduit le risque de décès, mais prolonge la durée de l’échange.</LangValue>
+    <LangValue>Plus de người dans la caravane réduit le risque de décès, mais prolonge la durée de l’échange.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -38718,10 +38716,10 @@ Il y avait plus de 20 réfugiés des zones de famine qui essayaient d'obtenir de
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Lieu de résidence pour les Cư dân.
-Les occupants peuvent avoir des enfants.
-Peut accueillir jusqu'à 40 personnes.
-Les combustibles durent plus longtemps.
+    <LangValue>·Nơi ở cho cư dân.
+·Cư dân có thể sinh con.
+·Có thể ở tối đa 40 người.
+·Nhiên liệu tồn tại lâu hơn.
 Grande capacité d'inventaire.
 Construit près de la place du marché.
 A débloquer dans Factions - Miao - Réputation Niv4.</LangValue>
@@ -38743,7 +38741,7 @@ A débloquer dans Factions - Miao - Réputation Niv3.</LangValue>
     <LangType>French</LangType>
     <LangValue>Peut planter les arbres fruitiers plus proches.
 Peut être fertilisé pour un meilleur rendement. 
-À débloquer dans Factions - Miao - Réputation Niv. 3.</LangValue>
+·Mở khóa trong Factions - Miao - Réputation Niv. 3.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -38753,7 +38751,7 @@ Peut être fertilisé pour un meilleur rendement.
     <LangType>French</LangType>
     <LangValue>Peut de planter des arbres dans la ferme forestière avec un espacement plus faible.
 Peut être fertilisé pour un meilleur rendement. 
-À débloquer dans Factions - Miao - Réputation Niv. 3.</LangValue>
+·Mở khóa trong Factions - Miao - Réputation Niv. 3.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -38807,9 +38805,9 @@ A débloquer dans Factions - Rania - Reputation Niv3.</LangValue>
    <Lang>
     <LangType>French</LangType>
     <LangValue>Construit sur l’eau.
-Un rendement plus élevé.
+·Sản lượng cao hơn.
 Peut faire pousser des cultures spéciales.
-À débloquer dans Factions - Carlos - Réputation Niv. 3.</LangValue>
+·Mở khóa trong Factions - Carlos - Réputation Niv. 3.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -38885,7 +38883,7 @@ A débloquer dans Factions - Carlos - Réputation Niv3.</LangValue>
     <LangType>French</LangType>
     <LangValue>Un endroit où les étudiants peuvent étudier.
 L'enseignant peut générer de l'expérience technologique.
-Peut accueillir jusqu'à 15 étudiants.
+·Có thể ở tối đa 15 étudiants.
 A débloquer dans Factions - Miao - Reputation Niv2.</LangValue>
    </Lang>
   </LangList>
@@ -38896,7 +38894,7 @@ A débloquer dans Factions - Miao - Reputation Niv2.</LangValue>
     <LangType>French</LangType>
     <LangValue>Augmente le Hạnh phúc des Cư dân dans le cadre du service.
 Structure avec un bonus d’effet de zone.
-À débloquer dans Factions - Miao - Réputation Niv. 4.</LangValue>
+·Mở khóa trong Factions - Miao - Réputation Niv. 4.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -38918,7 +38916,7 @@ A débloquer dans Factions - Miao - Réputation Niv5.</LangValue>
 Peut traiter les Cư dân malades.
 Les Cư dân bénéficiant d’une assurance médicale ont une meilleure Sức khỏe.
 Structure avec un bonus d’effet de zone.
-À débloquer dans Factions - Lorenzo - Réputation Niv. 2.</LangValue>
+·Mở khóa trong Factions - Lorenzo - Réputation Niv. 2.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -38938,7 +38936,7 @@ A débloquer dans Factions - Lorenzo - Réputation Lv4.</LangValue>
     <LangValue>Peut accroître le Hạnh phúc des Cư dân dans le cadre du service.
 Les Cư dân très heureux ne commettent pas de crimes.
 Structure avec un bonus d’effet de zone.
-À débloquer dans Factions - Rania - Réputation Niv. 2.</LangValue>
+·Mở khóa trong Factions - Rania - Réputation Niv. 2.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -38959,7 +38957,7 @@ A débloquer dans Factions - Rania - Réputation Niv4.</LangValue>
     <LangType>French</LangType>
     <LangValue>Fournit un lieu de repos pour les morts afin que les familles endeuillées ne perdent pas leur joie après un enterrement.
 Peut enterrer les morts sans limites.
-À débloquer dans Factions - Lorenzo - Réputation Niv. 4.</LangValue>
+·Mở khóa trong Factions - Lorenzo - Réputation Niv. 4.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -38985,7 +38983,7 @@ A débloquer dans Factions - Rania - Réputation Niv5.</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Peut accueillir &lt;color=#e5763f&gt;5 familles, jusqu'à 40 personnes&lt;/color&gt; avec un grand inventaire. Le carburant dure plus longtemps. Peut soulager considérablement le stress des occupants. Construit près du &lt;color=#e5763f&gt;Marché&lt;/color&gt;.</LangValue>
+    <LangValue>Peut accueillir &lt;color=#e5763f&gt;5 familles, jusqu'à 40 người&lt;/color&gt; avec un grand inventaire. Le carburant dure plus longtemps. Peut soulager considérablement le stress des occupants. Construit près du &lt;color=#e5763f&gt;Marché&lt;/color&gt;.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -39001,7 +38999,7 @@ A débloquer dans Factions - Rania - Réputation Niv5.</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Peut planter des arbres fruitiers ici, et les arbres peuvent être plantés à &lt;color=#df840e&gt;un espacement inférieur&lt;/color&gt;.. Peut être fertilisé pour un meilleur rendement.</LangValue>
+    <LangValue>·Có thể trồng và chặt cây theo định kỳ. fruitiers ici, et les arbres peuvent être plantés à &lt;color=#df840e&gt;un espacement inférieur&lt;/color&gt;.. Peut être fertilisé pour un meilleur rendement.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -39009,7 +39007,7 @@ A débloquer dans Factions - Rania - Réputation Niv5.</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Peut planter des arbres ici, et les arbres peuvent être plantés à &lt;color=#e5763f&gt;un espacement inférieur&lt;/color&gt;. Peut être fertilisé pour un meilleur rendement.</LangValue>
+    <LangValue>·Có thể trồng và chặt cây theo định kỳ. ici, et les arbres peuvent être plantés à &lt;color=#e5763f&gt;un espacement inférieur&lt;/color&gt;. Peut être fertilisé pour un meilleur rendement.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -39017,7 +39015,7 @@ A débloquer dans Factions - Rania - Réputation Niv5.</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Peut planter des arbres de bois dur et produire du &lt;color=#df840e&gt;bois dur&lt;/color&gt;. Les fermiers dans la pépinière de bois dur couperont les arbres matures. Peut utiliser de l'engrais pour &lt;color=#df840e&gt;augmenter la production&lt;/color&gt;.</LangValue>
+    <LangValue>·Có thể trồng và chặt cây theo định kỳ. de bois dur et produire du &lt;color=#df840e&gt;bois dur&lt;/color&gt;. Les fermiers dans la pépinière de bois dur couperont les arbres matures. Peut utiliser de l'engrais pour &lt;color=#df840e&gt;augmenter la production&lt;/color&gt;.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -39217,7 +39215,7 @@ A débloquer dans Factions - Rania - Réputation Niv5.</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Pépinière de Bois Dur</LangValue>
+    <LangValue>Vườn ươm de Bois Dur</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -39236,7 +39234,7 @@ A débloquer dans Factions - Rania - Réputation Niv5.</LangValue>
     <LangValue>Peut transformer le cactus en fourrage.
 Peut transformer le cactus en poudre médicale.
 Peut transformer le cactus en morceaux de cactus.
-À débloquer dans Factions - Carlos - Réputation Niv. 1.</LangValue>
+·Mở khóa trong Factions - Carlos - Réputation Niv. 1.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -39252,7 +39250,7 @@ Peut transformer le cactus en morceaux de cactus.
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Pépinière d'Eau</LangValue>
+    <LangValue>Vườn ươm d'Eau</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -39428,7 +39426,7 @@ Peut transformer le cactus en morceaux de cactus.
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Cultures plantés dans la &lt;color=#df840e&gt;Ferme Forestière&lt;/color&gt; qui produisent du bambou, qui peut être transformé en papier ou utilisé comme matériau de construction.</LangValue>
+    <LangValue>Cultures plantés dans la &lt;color=#df840e&gt;Nông trại Forestière&lt;/color&gt; qui produisent du bambou, qui peut être transformé en papier ou utilisé comme matériau de construction.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -39436,7 +39434,7 @@ Peut transformer le cactus en morceaux de cactus.
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Matières premières produites à la &lt;color=#df840e&gt;Ferme forestière&lt;/color&gt; pour &lt;color=#df840e&gt;fabriquer du papier&lt;/color&gt;. Les graines peuvent être obtenues par la réputation des Factions.</LangValue>
+    <LangValue>Matières premières produites à la &lt;color=#df840e&gt;Lâm trang&lt;/color&gt; pour &lt;color=#df840e&gt;fabriquer du papier&lt;/color&gt;. Les graines peuvent être obtenues par la réputation des Factions.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -39452,7 +39450,7 @@ Peut transformer le cactus en morceaux de cactus.
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Matériaux produits à la &lt;color=#df840e&gt;Pépinière de bois dur&lt;/color&gt; pour fabriquer des outils à la forge. L'un des principaux matériaux de construction.</LangValue>
+    <LangValue>Matériaux produits à la &lt;color=#df840e&gt;Vườn ươm de bois dur&lt;/color&gt; pour fabriquer des outils à la forge. L'un des principaux matériaux de construction.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -40172,7 +40170,7 @@ Peut transformer le cactus en morceaux de cactus.
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Ferme Dense</LangValue>
+    <LangValue>Nông trại Dense</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -40188,7 +40186,7 @@ Peut transformer le cactus en morceaux de cactus.
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Ferme de la Forêt Dense</LangValue>
+    <LangValue>Nông trại de la Forêt Dense</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -40236,7 +40234,7 @@ Peut transformer le cactus en morceaux de cactus.
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Pépinière de Bois Dur</LangValue>
+    <LangValue>Vườn ươm de Bois Dur</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -40452,7 +40450,7 @@ Peut transformer le cactus en morceaux de cactus.
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Pépinière d'eau</LangValue>
+    <LangValue>Vườn ươm d'eau</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -40676,7 +40674,7 @@ Peut transformer le cactus en morceaux de cactus.
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>{0} personnes enterrées.</LangValue>
+    <LangValue>{0} người enterrées.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -42104,7 +42102,7 @@ Oh, ce jeune homme, le caractère chinois "Fu" doit être collé à l'envers, ce
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>L'autorisation d'immigration est arrivée juste à temps. Certaines personnes voulaient s'installer ici à cause de la peste qui sévissait là-bas. Et j'ai entendu dire que vous aviez d'excellents soins médicaux. Pourriez-vous s'il vous plaît aider ces pauvres gens ?</LangValue>
+    <LangValue>L'autorisation d'immigration est arrivée juste à temps. Certaines người voulaient s'installer ici à cause de la peste qui sévissait là-bas. Et j'ai entendu dire que vous aviez d'excellents soins médicaux. Pourriez-vous s'il vous plaît aider ces pauvres gens ?</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -42147,7 +42145,7 @@ Oh, ce jeune homme, le caractère chinois "Fu" doit être collé à l'envers, ce
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Je m'appelle Carlos. Nous vivons dans un endroit où le sol est si pauvre que nous ne pouvons pas faire vivre trop de gens. Même les âmes que Dieu peut accueillir sont limitées. Pouvez-vous accueillir ces personnes âgées qui n'ont nulle part où aller ?</LangValue>
+    <LangValue>Je m'appelle Carlos. Nous vivons dans un endroit où le sol est si pauvre que nous ne pouvons pas faire vivre trop de gens. Même les âmes que Dieu peut accueillir sont limitées. Pouvez-vous accueillir ces người âgées qui n'ont nulle part où aller ?</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -42163,7 +42161,7 @@ Oh, ce jeune homme, le caractère chinois "Fu" doit être collé à l'envers, ce
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Devinez quoi, quand je me suis réveillé ce matin, il y avait un autre groupe d’anciens devant ma maison. Ils ont été mis à la porte par leurs enfants ! Ça pleure encore là-bas ! Et ils m’ont dit qu’ils n’avaient pas encore mangé ! Comment puis-je nourrir autant de gens ? Au fait, votre résidence pour personnes âgées a-t-elle déjà été construite ? Puis-je les y inscrire ?</LangValue>
+    <LangValue>Devinez quoi, quand je me suis réveillé ce matin, il y avait un autre groupe d’anciens devant ma maison. Ils ont été mis à la porte par leurs enfants ! Ça pleure encore là-bas ! Et ils m’ont dit qu’ils n’avaient pas encore mangé ! Comment puis-je nourrir autant de gens ? Au fait, votre résidence pour người âgées a-t-elle déjà été construite ? Puis-je les y inscrire ?</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -42171,7 +42169,7 @@ Oh, ce jeune homme, le caractère chinois "Fu" doit être collé à l'envers, ce
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>J'ai vu que de nombreuses personnes riches dans d'autres pays portent les sacs à main que vous avez fabriqués, comme c'est à la mode ! Pourriez-vous m'en donner quelques-uns pour que les jeunes de notre petite ville portent aussi des babioles à la mode ? !</LangValue>
+    <LangValue>J'ai vu que de nombreuses người riches dans d'autres pays portent les sacs à main que vous avez fabriqués, comme c'est à la mode ! Pourriez-vous m'en donner quelques-uns pour que les jeunes de notre petite ville portent aussi des babioles à la mode ? !</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -42272,7 +42270,7 @@ Oh, ce jeune homme, le caractère chinois "Fu" doit être collé à l'envers, ce
    <Lang>
     <LangType>French</LangType>
     <LangValue>Les membres de la caravane ont raconté leur merveilleuse expérience :
-« Nous sommes allés dans la métropole cette fois. Il y avait des marchandises de partout dans le monde. Nous avons ramené quelques spécialités d’autres endroits cette fois-ci. »</LangValue>
+'Nous sommes allés dans la métropole cette fois. Il y avait des marchandises de partout dans le monde. Nous avons ramené quelques spécialités d’autres endroits cette fois-ci.'</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -42589,7 +42587,7 @@ Oh, ce jeune homme, le caractère chinois "Fu" doit être collé à l'envers, ce
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Nous n'avons plus à vivre dans une pièce minable avec plusieurs personnes, et maintenant nous pouvons avoir un meilleur travail et une meilleure vie ici avec des matériaux plus abondants.</LangValue>
+    <LangValue>Nous n'avons plus à vivre dans une pièce minable avec plusieurs người, et maintenant nous pouvons avoir un meilleur travail et une meilleure vie ici avec des matériaux plus abondants.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -42735,7 +42733,7 @@ Oh, ce jeune homme, le caractère chinois "Fu" doit être collé à l'envers, ce
     <LangType>French</LangType>
     <LangValue>Consomme de l'obsidienne.
 Augmente la vitesse de déplacement de 125%.
-Débloqué dans Factions - Carlos - Réputation Niv3.</LangValue>
+·Mở khóa trong Factions - Carlos - Réputation Niv3.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -43023,7 +43021,7 @@ Débloqué dans Factions - Carlos - Réputation Niv3.</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Votre caravane a rencontré une mésaventure en route. Des personnes sont mortes et des marchandises ont été perdues. Indemnités d'assurance : {0}.</LangValue>
+    <LangValue>Votre caravane a rencontré une mésaventure en route. Des người sont mortes et des marchandises ont été perdues. Indemnités d'assurance : {0}.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -43031,7 +43029,7 @@ Débloqué dans Factions - Carlos - Réputation Niv3.</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Votre caravane a rencontré une mésaventure en route. Des personnes sont mortes et des marchandises ont été perdues. Vous avez subi de lourdes pertes sans souscrire d'assurance.</LangValue>
+    <LangValue>Votre caravane a rencontré une mésaventure en route. Des người sont mortes et des marchandises ont été perdues. Vous avez subi de lourdes pertes sans souscrire d'assurance.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -43167,7 +43165,7 @@ Débloqué dans Factions - Carlos - Réputation Niv3.</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Débloquer les graines de bambou qui peuvent être plantées dans une &lt;color=#df840e&gt;Ferme forestière&lt;/color&gt;. Le bambou peut être transformé en papier ou utilisé comme matériau de construction.</LangValue>
+    <LangValue>Débloquer les graines de bambou qui peuvent être plantées dans une &lt;color=#df840e&gt;Lâm trang&lt;/color&gt;. Le bambou peut être transformé en papier ou utilisé comme matériau de construction.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -43183,7 +43181,7 @@ Débloqué dans Factions - Carlos - Réputation Niv3.</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Débloquer les graines de feuillus qui peuvent être plantées dans les &lt;color=#df840e&gt;Pépinières de bois dur&lt;/color&gt;. Le bois dur peut être transformé en outils ou utilisé comme matériaux de construction.</LangValue>
+    <LangValue>Débloquer les graines de feuillus qui peuvent être plantées dans les &lt;color=#df840e&gt;Vườn ươms de bois dur&lt;/color&gt;. Le bois dur peut être transformé en outils ou utilisé comme matériaux de construction.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -43207,7 +43205,7 @@ Débloqué dans Factions - Carlos - Réputation Niv3.</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Les graines plantées dans une &lt;color=#df840e&gt;Ferme forestière&lt;/color&gt; deviennent des bambous.</LangValue>
+    <LangValue>Les graines plantées dans une &lt;color=#df840e&gt;Lâm trang&lt;/color&gt; deviennent des bambous.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -44743,10 +44741,10 @@ Débloqué dans Factions - Carlos - Réputation Niv3.</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Peut stocker des objets.
+    <LangValue>·Có thể lưu trữ vật phẩm.
 Peut collecter les objets désignés dans tous les entrepôts.
 Les Cư dân peuvent prendre et utiliser les fournitures ici.
-Débloquer dans 'Công nghệ - Logistique - Station d'approvisionnement'.</LangValue>
+Débloquer dans 'Công nghệ - Hậu cần - Station d'approvisionnement'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -55899,7 +55897,7 @@ Certains enfants reçoivent de délicieuses friandises, d'autres reçoivent de b
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Doit être construit sur une colline.</LangValue>
+    <LangValue>·Phải được xây dựng trên sườn đồi.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -56020,7 +56018,7 @@ Certains enfants reçoivent de délicieuses friandises, d'autres reçoivent de b
    <Lang>
     <LangType>French</LangType>
     <LangValue>Un pêcheur en haillons veut vendre les huîtres qu’il transporte dans un grand sac.
-« Fraîches et savoureuses ! Demandez les belles huîtres du jour ! »</LangValue>
+'Fraîches et savoureuses ! Demandez les belles huîtres du jour !'</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -56045,7 +56043,7 @@ Certains enfants reçoivent de délicieuses friandises, d'autres reçoivent de b
    <Lang>
     <LangType>French</LangType>
     <LangValue>Le pêcheur a réfléchi et a décidé de les vendre à bas prix.
-« Eh bien, puisque je ne pourrais les vendre demain... »</LangValue>
+'Eh bien, puisque je ne pourrais les vendre demain...'</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -56077,7 +56075,7 @@ Certains enfants reçoivent de délicieuses friandises, d'autres reçoivent de b
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Un groupe de personnes est arrivé en ville leurs affaires. Une tornade a frappé leur colonie d’origine et a complètement détruit leurs maisons. Heureusement, tous ont survécu à la catastrophe et ont récupéré assez de nourriture pour chercher un nouvel endroit où passer l’hiver.</LangValue>
+    <LangValue>Un groupe de người est arrivé en ville leurs affaires. Une tornade a frappé leur colonie d’origine et a complètement détruit leurs maisons. Heureusement, tous ont survécu à la catastrophe et ont récupéré assez de nourriture pour chercher un nouvel endroit où passer l’hiver.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -56182,7 +56180,7 @@ Certains enfants reçoivent de délicieuses friandises, d'autres reçoivent de b
    <Lang>
     <LangType>French</LangType>
     <LangValue>Une caravane du nord est passée, et leur eau potable s’épuisait. Ils voulaient échanger leurs biens contre des spiritueux.
-« Nos outils en bois dur sont solides et durables, et vous ne perdrez rien en échange de la même quantité d’alcools. »</LangValue>
+'Nos outils en bois dur sont solides et durables, et vous ne perdrez rien en échange de la même quantité d’alcools.'</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -56223,7 +56221,7 @@ Certains enfants reçoivent de délicieuses friandises, d'autres reçoivent de b
    <Lang>
     <LangType>French</LangType>
     <LangValue>Un petit navire marchand peu commun a accosté tranquillement au port la nuit, et un marchand sournois est descendu du navire.
-« Notre chambre de commerce n’autorise pas l’ajustement privé des prix, mais j’ai trop de chaussures en cuir en stock. J’espère vous les vendre à bas prix, s’il vous plaît, ne le divulguez pas aux autres ! »</LangValue>
+'Notre chambre de commerce n’autorise pas l’ajustement privé des prix, mais j’ai trop de chaussures en cuir en stock. J’espère vous les vendre à bas prix, s’il vous plaît, ne le divulguez pas aux autres !'</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -56264,7 +56262,7 @@ Certains enfants reçoivent de délicieuses friandises, d'autres reçoivent de b
    <Lang>
     <LangType>French</LangType>
     <LangValue>Un vieil homme est arrivé en ville avec un sac de vieilles bouteilles en verre.
-« Bien que mes bouteilles en verre soient toutes vieilles, je les ai toutes nettoyées, et leur prix est moins élevé que celui des bouteilles neuves. Achetez-en quelques-unes ! »</LangValue>
+'Bien que mes bouteilles en verre soient toutes vieilles, je les ai toutes nettoyées, et leur prix est moins élevé que celui des bouteilles neuves. Achetez-en quelques-unes !'</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -56288,7 +56286,7 @@ Certains enfants reçoivent de délicieuses friandises, d'autres reçoivent de b
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Je ne peux acheter que de vieilles bouteilles en verre à bas prix, et le prix ne peut pas être plus élevé, 1 pièce d’argent par bouteille en verre. »</LangValue>
+    <LangValue>Je ne peux acheter que de vieilles bouteilles en verre à bas prix, et le prix ne peut pas être plus élevé, 1 pièce d’argent par bouteille en verre.'</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -58288,7 +58286,7 @@ Non fonctionnel sans un stockage suffisant en eau.</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Produit des médicaments spéciaux, des bandages, de l'alcool médical, etc. À débloquer dans « Công nghệ - Qualité de vie - Hutte d'Herboriste »</LangValue>
+    <LangValue>Produit des médicaments spéciaux, des bandages, de l'alcool médical, etc. ·Mở khóa trong 'Công nghệ - Qualité de vie - Hutte d'Herboriste'</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -58608,7 +58606,7 @@ Non fonctionnel sans un stockage suffisant en eau.</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Peut transformer les légumes en salade, déblocable dans « Công nghệ - Transformation - Transformation de la nourriture »</LangValue>
+    <LangValue>Peut transformer les légumes en salade, déblocable dans 'Công nghệ - Transformation - Transformation de la nourriture'</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -59416,7 +59414,7 @@ Non fonctionnel sans un stockage suffisant en eau.</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Veuillez cliquer sur le bouton « Détails de la ville ».</LangValue>
+    <LangValue>Veuillez cliquer sur le bouton 'Détails de la ville'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -59440,7 +59438,7 @@ Non fonctionnel sans un stockage suffisant en eau.</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Fermez-les maintenant. Voyons les informations sur les ressources disponibles de la ville.</LangValue>
+    <LangValue>Nông trạiz-les maintenant. Voyons les informations sur les ressources disponibles de la ville.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -59504,7 +59502,7 @@ Non fonctionnel sans un stockage suffisant en eau.</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Fermez ce panneau maintenant.</LangValue>
+    <LangValue>Nông trạiz ce panneau maintenant.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -59768,7 +59766,7 @@ Non fonctionnel sans un stockage suffisant en eau.</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Veuillez cliquer sur le bouton « Nourriture », vous pouvez également utiliser (&lt;color=#df840e&gt;raccourci : 2&lt;/color&gt;) pour ouvrir la barre d’outils « Nourriture ».</LangValue>
+    <LangValue>Veuillez cliquer sur le bouton 'Nourriture', vous pouvez également utiliser (&lt;color=#df840e&gt;raccourci : 2&lt;/color&gt;) pour ouvrir la barre d’outils 'Nourriture'.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -59936,7 +59934,7 @@ Non fonctionnel sans un stockage suffisant en eau.</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Cliquez sur la &lt;color=#df840e&gt;cabane des constructeurs&lt;/color&gt; affecter plus de personnes au travail en tant que &lt;color=#df840e&gt;constructeur&lt;/color&gt;</LangValue>
+    <LangValue>Cliquez sur la &lt;color=#df840e&gt;cabane des constructeurs&lt;/color&gt; affecter plus de người au travail en tant que &lt;color=#df840e&gt;constructeur&lt;/color&gt;</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -60152,7 +60150,7 @@ Non fonctionnel sans un stockage suffisant en eau.</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Il y a d’abondantes ressources en poissons près de la ville, veuillez ouvrir le bouton Agriculture, (&lt;color=#df840e&gt;raccourci : 2&lt;/color&gt;)</LangValue>
+    <LangValue>Il y a d’abondantes ressources en poissons près de la ville, veuillez ouvrir le bouton Nông nghiệp, (&lt;color=#df840e&gt;raccourci : 2&lt;/color&gt;)</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -60296,7 +60294,7 @@ Non fonctionnel sans un stockage suffisant en eau.</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Ouvrez &lt;color=#df840e&gt;Logistiques&lt;/color&gt;, (&lt;color=#df840e&gt;raccourci : 5&lt;/color&gt;) sélectionnez le port.</LangValue>
+    <LangValue>Ouvrez &lt;color=#df840e&gt;Hậu cầns&lt;/color&gt;, (&lt;color=#df840e&gt;raccourci : 5&lt;/color&gt;) sélectionnez le port.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -60376,7 +60374,7 @@ Non fonctionnel sans un stockage suffisant en eau.</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Cliquez sur &lt;color=#df840e&gt;Logistiques&lt;/color&gt;, (&lt;color=#df840e&gt;raccourci : 5&lt;/color&gt;) et sélectionnez le &lt;color=#df840e&gt;Petit comptoir commercial&lt;/color&gt;.</LangValue>
+    <LangValue>Cliquez sur &lt;color=#df840e&gt;Hậu cầns&lt;/color&gt;, (&lt;color=#df840e&gt;raccourci : 5&lt;/color&gt;) et sélectionnez le &lt;color=#df840e&gt;Petit comptoir commercial&lt;/color&gt;.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -60616,7 +60614,7 @@ Non fonctionnel sans un stockage suffisant en eau.</LangValue>
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Fermer les Détails de la ville</LangValue>
+    <LangValue>Nông trạir les Détails de la ville</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
