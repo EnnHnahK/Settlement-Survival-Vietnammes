@@ -1771,7 +1771,7 @@
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Matériaux</LangValue>
+    <LangValue>Vật liệu</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -1779,7 +1779,7 @@
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Capacité Max</LangValue>
+    <LangValue>Sức chứa tối đa</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -1787,7 +1787,7 @@
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Nom</LangValue>
+    <LangValue>Tên</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -1795,7 +1795,7 @@
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Débloquer la structure dans la section Công nghệ.</LangValue>
+    <LangValue>Mở khóa công trình trong Công nghệ.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -1803,7 +1803,7 @@
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Aucun animal disponible</LangValue>
+    <LangValue>Hiện tại không có động vật nào.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -1811,7 +1811,7 @@
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Objet introuvable</LangValue>
+    <LangValue>Không tìm thấy vật phẩm</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -1819,7 +1819,7 @@
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Aucune graine disponible</LangValue>
+    <LangValue>Hiện tại không có bất kỳ hạt giống nào.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -1827,7 +1827,7 @@
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Objets non stockés</LangValue>
+    <LangValue>Các vật phẩm chưa được lưu trữ</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -1835,7 +1835,7 @@
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Instructions</LangValue>
+    <LangValue>Hướng dẫn</LangValue>s
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -1843,8 +1843,8 @@
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Les animaux transférés doivent être les mêmes que ceux du pâturage cible.
-La capacité du pâturage cible doit être supérieure ou égale au nombre actuel d'animaux dans le pâturage.</LangValue>
+    <LangValue>Vật nuôi cần di chuyển phải giống với vật nuôi đã chăn thả ở Đồng cỏ được chỉ định.
+Không gian của đồng cỏ được chỉ định phải lớn hơn hoặc bằng số lượng động vật đã có trên đồng cỏ.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -1852,7 +1852,7 @@ La capacité du pâturage cible doit être supérieure ou égale au nombre actue
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Pas assez de capacité dans ce pâturage pour accepter l'animal qui devait être transféré.</LangValue>
+    <LangValue>Đồng cỏ không đủ không gian để tiếp nhận vật nuôi chuyển đến.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
@@ -1860,8 +1860,8 @@ La capacité du pâturage cible doit être supérieure ou égale au nombre actue
   <LangList>
    <Lang>
     <LangType>French</LangType>
-    <LangValue>Les animaux séparés doivent être les mêmes que ceux du pâturage cible.
-Et le nombre d'animaux doit être inférieur à la capacité restante du pâturage cible.</LangValue>
+    <LangValue>Vật nuôi cần tách đàn phải giống với vật nuôi đã chăn thả ở Đồng cỏ được chỉ định.
+Và số lượng phải bé hơn không gian còn lại của đồng cỏ được chỉ định.</LangValue>
    </Lang>
   </LangList>
 </LangConfig><LangConfig>
